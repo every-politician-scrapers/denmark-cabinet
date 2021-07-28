@@ -1,6 +1,6 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q12301637,Ane Halsboe-Jørgensen,Ane Halsboe-Jørgensen,female,1983-05-04T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q12312037,Minister for Higher Education and Science,Q12301637-2C4E1351-06CF-45ED-B041-2F258B94110F
-Q463680,Astrid Krag,Astrid Krag,female,1982-11-17T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q10563295,Minister of Social Affairs of Denmark,Q463680-8DA84916-FE30-4DAA-A7AA-57DF63F9A07D
+Q463680,Astrid Krag,Astrid Krag,female,1982-11-17T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q10563295,Minister for Social Affairs and senior citizens,Q463680-8DA84916-FE30-4DAA-A7AA-57DF63F9A07D
 Q12303134,Benny Engelbrecht,Benny Engelbrecht,male,1970-08-04T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q20069142,Minister for Transport,Q12303134-8FF3FA98-FDAF-4BD6-AF6C-A8B5F22B539B
 Q1159092,Dan Jørgensen,Dan Jørgensen,male,1975-06-12T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q25776270,"Minister for Climate, Energy and Utilities",Q1159092-7EB65D76-F1D6-4F35-9907-78142F6985AB
 Q12311591,Flemming Møller Mortensen,Flemming Møller Mortensen,male,1963-07-03T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q6865806,Minister for Development Cooperation,Q12311591-A92AE3E6-A188-4A37-9A44-99E37919AA6E
@@ -8,7 +8,7 @@ Q12311591,Flemming Møller Mortensen,Flemming Møller Mortensen,male,1963-07-03T
 Q1799046,Jeppe Kofod,Jeppe Kofod,male,1974-03-14T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q6866144,Minister for Foreign Affairs,Q1799046-5393473B-C23E-49CA-B1F9-9B8E05E9F06A
 Q12320387,Joy Mogensen,Joy Mogensen,female,1980-08-11T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q27923963,Minister for Culture,Q12320387-72FDC4E0-48F9-4D68-B194-0C54BE35C4F5
 Q12320387,Joy Mogensen,Joy Mogensen,female,1980-08-11T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q6865812,Minister for Ecclesiastical Affairs,Q12320387-7C8E67DB-4D24-447A-9A46-E640A4FA5222
-Q20175887,Kaare Dybvad Bek,Kaare Dybvad Bek,male,1984-08-05T00:00:00Z,11,,Q12304055,Danish Minister for Urban Development,Q20175887-40efac19-44f4-a26a-a861-1ecf81a4de3c
+Q20175887,Kaare Dybvad Bek,Kaare Dybvad Bek,male,1984-08-05T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q12304055,Minister of Housing,Q20175887-40efac19-44f4-a26a-a861-1ecf81a4de3c
 Q20174096,Lea Wermelin,Lea Wermelin,female,1985-05-10T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q1311756,Minister for the Environment,Q20174096-26877678-6AFB-4895-A7E6-EF746E0A513F
 Q12325727,Magnus Heunicke,Magnus Heunicke,male,1975-01-28T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q12337702,Minister for Health,Q12325727-8F652295-8684-43A0-A104-5E09583EF6B5
 Q12326451,Mattias Tesfaye,Mattias Tesfaye,male,1981-03-31T00:00:00Z,11,https://www.thedanishparliament.dk/en/members/the-government,Q20011494,Minister for Immigration and Integration,Q12326451-69BC2F84-5746-4877-8CA9-0960A3430545
