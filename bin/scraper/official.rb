@@ -12,13 +12,22 @@ class MemberList
     end
 
     field :position do
-      tds[1].xpath('text()').first.text.tidy
+      return raw_position unless raw_position.to_s.empty?
+
+      # These two are empty on the main list, so get the details from
+      # their individual page
+      return 'Minister for Social Affairs and senior citizens' if name == 'Astrid Krag'
+      return 'Minister of Housing' if name == 'Kaare Dybvad Bek'
     end
 
     private
 
     def tds
       noko.css('td')
+    end
+
+    def raw_position
+      tds[1].xpath('text()').first.text.tidy
     end
   end
 
