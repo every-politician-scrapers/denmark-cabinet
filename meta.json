@@ -1,6 +1,15 @@
 {
-    "cabinet": "Q64831553",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/denmark-cabinet",
-    "source_match": "thedanishparliament.dk/en/members"
+    "cabinet": {
+      "id": "Q64831553",
+      "start": "2019-06-27"
+    },
+    "source": {
+        "url":   "https://www.thedanishparliament.dk/en/members/the-government",
+        "title": "The Government",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/denmark-cabinet"
 }
