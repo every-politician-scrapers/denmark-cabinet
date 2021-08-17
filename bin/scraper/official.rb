@@ -5,8 +5,7 @@ require 'every_politician_scraper/scraper_data'
 require 'pry'
 
 class MemberList
-  # details for an individual member
-  class Member < Scraped::HTML
+  class Member
     # These are too inconsistent to split programatically
     REMAP = {
       'Minister for Development Cooperation and Nordic Cooperation'  => ['Minister for Development Cooperation', 'Minister for Nordic Cooperation'],
@@ -15,11 +14,11 @@ class MemberList
       'Minister for Children and Education'                          => ['Minister for Children', 'Minister for Education'],
     }.freeze
 
-    field :name do
+    def name
       tds[0].css('img/@alt').text.tidy
     end
 
-    field :position do
+    def position
       return REMAP.fetch(raw_position, raw_position) unless raw_position.to_s.empty?
 
       # These two are empty on the main list, so get the details from
@@ -39,18 +38,7 @@ class MemberList
     end
   end
 
-  # The page listing all the members
-  class Members < Scraped::HTML
-    field :members do
-      # 'position' is a list of 1 or more positions
-      member_container.flat_map do |member|
-        data = fragment(member => Member).to_h
-        [data.delete(:position)].flatten.map { |posn| data.merge(position: posn) }
-      end
-    end
-
-    private
-
+  class Members
     def member_container
       noko.css('table.ankiro-results').xpath('.//tr[td[@class="cellPic"]]')
     end
