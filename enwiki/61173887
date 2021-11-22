@@ -1,0 +1,694 @@
+{
+  "title": "Nick Hækkerup",
+  "pageID": 61173887,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "People from Fredensborg Municipality",
+    "Danish writers",
+    "Government ministers of Denmark",
+    "Danish Justice Ministers",
+    "Danish Defence Ministers",
+    "Danish Health Ministers",
+    "Danish municipal councillors",
+    "Social Democrats (Denmark) politicians",
+    "University of Copenhagen alumni",
+    "Members of the Folketing 2007–2011",
+    "Members of the Folketing 2011–2015",
+    "Members of the Folketing 2015–2019",
+    "Members of the Folketing 2019–2023"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nick Hækkerup (born 3 April 1968 in Fredensborg) is a Danish writer and politician, who is a member of the Folketing for the Social Democrats political party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fredensborg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Folketing"
+                },
+                {
+                  "text": "Social Democrats",
+                  "type": "internal",
+                  "page": "Social Democrats (Denmark)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nick Hækkerup"
+                ]
+              }
+            },
+            {
+              "text": "He has served as the Minister of Justice in the Frederiksen Cabinet since 2019.",
+              "links": [
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Minister of Justice (Denmark)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Frederiksen Cabinet"
+                }
+              ]
+            },
+            {
+              "text": ", and previously as Minister of Defence, and Minister of Health.",
+              "links": [
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Minister of Defence (Denmark)"
+                },
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Minister of Health (Denmark)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has also written a number of books about the politics of the European Union, and on danish politics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Danish politician",
+          "template": "short description"
+        },
+        {
+          "year": "1968",
+          "month": "04",
+          "day": "03",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Nick Hækkerup.jpg"
+          },
+          "office": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Minister of Justice (Denmark)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "27 June 2019"
+          },
+          "primeminister": {
+            "text": "Mette Frederiksen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mette Frederiksen"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Søren Pape Poulsen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Søren Pape Poulsen"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Minister of Health (Denmark)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Helle Thorning-Schmidt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Helle Thorning-Schmidt"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "3 February 2014"
+          },
+          "term_end1": {
+            "text": "28 June 2015"
+          },
+          "predecessor1": {
+            "text": "Astrid Krag",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Astrid Krag"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Sophie Løhde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sophie Løhde"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Trade and European Affairs",
+            "links": [
+              {
+                "text": "Minister of Trade and European Affairs",
+                "type": "internal",
+                "page": "Minister of European Affairs (Denmark)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "9 August 2013"
+          },
+          "term_end2": {
+            "text": "3 February 2014"
+          },
+          "primeminister2": {
+            "text": "Helle Thorning-Schmidt"
+          },
+          "predecessor2": {
+            "text": "Nicolai Wammen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolai Wammen"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Position abolished"
+          },
+          "office3": {
+            "text": "Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Minister of Defence (Denmark)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "3 October 2011"
+          },
+          "term_end3": {
+            "text": "9 August 2013"
+          },
+          "primeminister3": {
+            "text": "Helle Thorning-Schmidt"
+          },
+          "predecessor3": {
+            "text": "Troels Lund Poulsen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Troels Lund Poulsen"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Nicolai Wammen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolai Wammen"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of the Folketing",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Folketing"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "13 November 2007"
+          },
+          "constituency4": {
+            "text": "North Zealand",
+            "links": [
+              {
+                "text": "North Zealand",
+                "type": "internal",
+                "page": "North Zealand (Folketing constituency)"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Mayor of Hillerød",
+            "links": [
+              {
+                "text": "Mayor of Hillerød",
+                "type": "internal",
+                "page": "Hillerød"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "1 January 2007"
+          },
+          "term_end5": {
+            "text": "13 November 2007"
+          },
+          "successor5": {
+            "text": "Kirsten Jensen"
+          },
+          "term_start6": {
+            "text": "1 January 2000"
+          },
+          "term_end6": {
+            "text": "31 December 2006"
+          },
+          "predecessor6": {
+            "text": "Jens S. Jensen"
+          },
+          "birth_date": {
+            "text": "April 3, 1968"
+          },
+          "birth_place": {
+            "text": "Fredensborg, Denmark",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fredensborg"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democrats",
+            "links": [
+              {
+                "text": "Social Democrats",
+                "type": "internal",
+                "page": "Social Democrats (Denmark)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Petra Freisleben Hækkerup"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://federalnewsnetwork.com/government-news/2019/06/denmarks-new-center-left-pm-presents-her-government/",
+          "title": "Denmark’s new center-left PM presents her government",
+          "date": "2019-06-27",
+          "website": "Federal News Network",
+          "language": "en-US",
+          "access-date": "2020-03-25",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hækkerup was elected into the municipal council of the former Hillerød Municipality in the 1993 Danish local elections.",
+              "links": [
+                {
+                  "text": "Hillerød Municipality",
+                  "type": "internal",
+                  "page": "Hillerød Municipality (1970-2006)"
+                },
+                {
+                  "text": "1993 Danish local elections",
+                  "type": "internal",
+                  "page": "1993 Danish local elections"
+                }
+              ]
+            },
+            {
+              "text": "He sat in the municipality's municipal council from 1994 and until the municipality was merged with Skævinge Municipality in 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Skævinge Municipality"
+                }
+              ]
+            },
+            {
+              "text": "The two municipalities formed a new Hillerød Municipality, where Hækkerup sat in the municipal council until 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hillerød Municipality"
+                }
+              ]
+            },
+            {
+              "text": "Hækkerup was the mayor of the former Hillerød Municipality from 2000 to 2006 and of the new Hillerød Municipality from 2006 to 2007."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hækkerup was elected into parliament in the 2007 Danish general election, and was reelected in 2011, 2015 and 2019.",
+              "links": [
+                {
+                  "text": "2007 Danish general election",
+                  "type": "internal",
+                  "page": "2007 Danish general election"
+                },
+                {
+                  "text": "2011",
+                  "type": "internal",
+                  "page": "2011 Danish general election"
+                },
+                {
+                  "text": "2015",
+                  "type": "internal",
+                  "page": "2015 Danish general election"
+                },
+                {
+                  "text": "2019",
+                  "type": "internal",
+                  "page": "2019 Danish general election"
+                }
+              ]
+            },
+            {
+              "text": "He was the Minister of Defense in the Helle Thorning-Schmidt I Cabinet from 3 October 2011 to 9 August 2013 and in that same cabinet, he was Minister of European Affairs from 9 August 2013 to 3 February 2014.",
+              "links": [
+                {
+                  "text": "Minister of Defense",
+                  "type": "internal",
+                  "page": "Minister of Defence (Denmark)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Helle Thorning-Schmidt I Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "He was later appointed Minister of Health in the Helle Thorning-Schmidt II Cabinet from 3 February 2014 to 28 June 2015.",
+              "links": [
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (Denmark)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Helle Thorning-Schmidt II Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2019, he was appointed Minister of Justice, in the Frederiksen Cabinet.",
+              "links": [
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Minister of Justice (Denmark)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Frederiksen Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Borgmester Nick Hækkerup",
+          "url": "http://www.danskekommuner.dk/Borgmesterfakta/Borgmestre/N/Nick-Hakkerup1/",
+          "website": "Danskekommuner.dk",
+          "access-date": "4 April 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Deleuran Müller",
+          "first1": "Thea",
+          "title": "Danmarks nye regering er nu på plads: Se hele Mette Frederiksens ministerhold her",
+          "url": "https://www.dr.dk/nyheder/politik/danmarks-nye-regering-er-nu-paa-plads-se-hele-mette-frederiksens-ministerhold-her",
+          "website": "dr.dk",
+          "language": "da",
+          "access-date": "25 March 2020",
+          "date": "27 June 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Nick Hækkerup",
+          "url": "https://www.ft.dk/medlemmer/mf/n/nick-haekkerup",
+          "website": "Ft.dk",
+          "access-date": "4 April 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hækkerup is the grandson of Per Hækkerup, who was a minister under Jens Otto Krag and Anker Jørgensen.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Per Hækkerup"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jens Otto Krag"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anker Jørgensen"
+                }
+              ]
+            },
+            {
+              "text": "His uncle Hans Hækkerup was defence minister under Poul Nyrup Rasmussen.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hans Hækkerup"
+                },
+                {
+                  "type": "internal",
+                  "page": "Poul Nyrup Rasmussen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hækkerup has a ph.d from Copenhagen University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Copenhagen University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Det politiske dynasti: Så stor er Hækkerup-klanen",
+          "url": "https://www.bt.dk/politik/det-politiske-dynasti-saa-stor-er-haekkerup-klanen",
+          "website": "Bt.dk",
+          "access-date": "4 April 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Bibliography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "8757401969",
+          "template": "isbn"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Udvikling i EU siden 1992 på de områder, der er omfattet af de danske forbehold (2001, Dansk Udenrigspolitisk Institut (DUPI))",
+            "formatting": {
+              "italic": [
+                "Udvikling i EU siden 1992 på de områder, der er omfattet af de danske forbehold"
+              ]
+            }
+          },
+          {
+            "text": "Controls and Sanctions in the EU law (2001, Djøf Forlag, co-author, ISBN: 8757401969)",
+            "formatting": {
+              "italic": [
+                "Controls and Sanctions in the EU law"
+              ]
+            }
+          },
+          {
+            "text": "Sandheden Kort - Christiansborg fra A til Å (2018, People's Press, co-author)",
+            "formatting": {
+              "italic": [
+                "Sandheden Kort - Christiansborg fra A til Å"
+              ]
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "ft.dk link"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "title": "Minister of Defence",
+          "before": "Troels Lund Poulsen",
+          "years": "2011 – 2013",
+          "after": "Nicolai Wammen",
+          "template": "succession box"
+        },
+        {
+          "title": "Minister of European Affairs",
+          "before": "Nicolai Wammen",
+          "years": "2013 – 2014",
+          "after": "Position abolished",
+          "template": "succession box"
+        },
+        {
+          "title": "Minister for Trade",
+          "before": "Pia Olsen Dyhr",
+          "years": "2013 – 2014",
+          "after": "Mogens Jensen",
+          "template": "succession box"
+        },
+        {
+          "title": "Minister of Health",
+          "before": "Astrid Krag",
+          "years": "2014 – 2015",
+          "after": "Sophie Løhde",
+          "template": "succession box"
+        },
+        {
+          "title": "Justice Minister",
+          "before": "Søren Pape Poulsen",
+          "years": "2019 –",
+          "after": "Incumbent",
+          "template": "succession box"
+        },
+        {
+          "template": "hækkerup family"
+        },
+        {
+          "template": "folketing members 2019-2023"
+        },
+        {
+          "template": "folketing members 2015-2019"
+        },
+        {
+          "template": "folketing members 2011-2015"
+        },
+        {
+          "template": "folketing members 2007-2011"
+        },
+        {
+          "state": "collapsed",
+          "title": "Members of the Folketing",
+          "template": "navbox with collapsible groups"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "denmark-politician-stub"
+        }
+      ]
+    }
+  ]
+}
