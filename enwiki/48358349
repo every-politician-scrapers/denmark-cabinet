@@ -83,6 +83,15 @@
       ],
       "infoboxes": [
         {
+          "name": {
+            "text": "Bárður á Steig Nielsen"
+          },
+          "image": {
+            "text": "Bardur Nielsen.jpg"
+          },
+          "imagesize": {
+            "text": "220px"
+          },
           "office": {
             "text": "Prime Minister of the Faroe Islands",
             "links": [
@@ -105,12 +114,43 @@
               }
             ]
           },
+          "deputy": {
+            "text": "Jørgen Niclasen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jørgen Niclasen"
+              }
+            ]
+          },
           "predecessor": {
             "text": "Aksel V. Johannesen",
             "links": [
               {
                 "type": "internal",
                 "page": "Aksel V. Johannesen"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Leader of the Union Party",
+            "links": [
+              {
+                "text": "Union Party",
+                "type": "internal",
+                "page": "Union Party (Faroe Islands)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "24 October 2015"
+          },
+          "predecessor1": {
+            "text": "Kaj Leo Johannesen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kaj Leo Johannesen"
               }
             ]
           },
@@ -147,6 +187,35 @@
                 "page": "Magni Laksáfoss"
               }
             ]
+          },
+          "birth_date": {
+            "text": "April 16, 1972"
+          },
+          "birth_place": {
+            "text": "Vestmanna, Faroe Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vestmanna"
+              },
+              {
+                "type": "internal",
+                "page": "Faroe Islands"
+              }
+            ]
+          },
+          "party": {
+            "text": "Union Party",
+            "links": [
+              {
+                "text": "Union Party",
+                "type": "internal",
+                "page": "Union Party (Faroe Islands)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Rakul Nielsen"
           }
         }
       ],
