@@ -24,7 +24,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q3429590,Cabinet of H. C. Hansen II,,,1957-05-28,11,,,1960-02-21,11,Q1503072,Cabinet of Denmark,,,,,,,Q3429191,Cabinet of H. C. Hansen I,Q3432583,Cabinet of Viggo Kampmann I
 ,Q3429620,Cabinet of Anker Jørgensen III,,,1978-08-30,11,,,1979-10-26,11,Q1503072,Cabinet of Denmark,,,Q3429563,Cabinet of Anker Jørgensen II,Q3364419,Cabinet of Anker Jørgensen IV,Q3429563,Cabinet of Anker Jørgensen II,Q3364419,Cabinet of Anker Jørgensen IV
 ,Q3429649,Cabinet of Erik Eriksen,,,1950-10-30,11,,,1953-09-30,11,Q1503072,Cabinet of Denmark,,,,,,,Q3429546,Cabinet of Hans Hedtoft II,Q90229318,Cabinet of Hans Hedtoft III
-,Q3430325,Cabinet of Deuntzer,,,1901-07-24,11,,,1905-01-14,11,Q1503072,Cabinet of Denmark,,,,,,,Q3430576,Cabinet of Sehested,Q97616170,Q97616170
+,Q3430325,Cabinet of Deuntzer,,,1901-07-24,11,,,1905-01-14,11,Q1503072,Cabinet of Denmark,,,,,,,Q3430576,Cabinet of Sehested,Q97616170,Cabinet of Christensen l
 ,Q3430769,Cabinet of Holstein-Holsteinborg,,,1870-05-28,11,,,1874-07-14,11,Q1503072,Cabinet of Denmark,,,Q3430797,Cabinet of Frijs,Q3430781,Cabinet of Fonnesbech,Q3430797,Cabinet of Frijs,Q3430781,Cabinet of Fonnesbech
 ,Q3430781,Cabinet of Fonnesbech,,,1874-07-14,11,,,1875-06-11,11,Q1503072,Cabinet of Denmark,,,Q3430769,Cabinet of Holstein-Holsteinborg,Q3431586,Cabinet of Estrup,Q3430769,Cabinet of Holstein-Holsteinborg,Q3431586,Cabinet of Estrup
 ,Q3430797,Cabinet of Frijs,,,1865-11-06,11,,,1870-05-28,11,Q1503072,Cabinet of Denmark,,,Q3431497,Cabinet of Bluhme II,Q3430769,Cabinet of Holstein-Holsteinborg,Q3431497,Cabinet of Bluhme II,Q3430769,Cabinet of Holstein-Holsteinborg
@@ -44,7 +44,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q11997382,Cabinet of M.P. Friis,,,1920-04-05,11,,,1920-05-05,11,Q1503072,Cabinet of Denmark,,,Q11997388,Cabinet of Otto Liebe,Q11997386,Cabinet of Neergaard II,Q11997388,Cabinet of Otto Liebe,Q11997386,Cabinet of Neergaard II
 ,Q11997383,Cabinet of Madsen-Mygdal,,,1926-12-14,11,,,1929-04-30,11,Q1503072,Cabinet of Denmark,,,Q11997390,Cabinet of Thorvald Stauning I,Q11997392,Cabinet of Thorvald Stauning II,Q11997390,Cabinet of Thorvald Stauning I,Q11997392,Cabinet of Thorvald Stauning II
 ,Q11997384,Cabinet of Klaus Berntsen,,,1910-07-05,11,,,1913-06-21,11,Q1503072,Cabinet of Denmark,,,,,,,Q11997394,Cabinet of Zahle I,Q11997396,Cabinet of Zahle II
-,Q11997385,Cabinet of J.C. Christensen II,,,1908-07-24,11,,,1908-10-12,11,Q1503072,Cabinet of Denmark,,,,,,,Q97616170,Q97616170,Q11997387,Cabinet of Neergaard I
+,Q11997385,Cabinet of J.C. Christensen II,,,1908-07-24,11,,,1908-10-12,11,Q1503072,Cabinet of Denmark,,,,,,,Q97616170,Cabinet of Christensen l,Q11997387,Cabinet of Neergaard I
 ,Q11997386,Cabinet of Neergaard II,,,1920-05-05,11,,,1922-10-09,11,Q1503072,Cabinet of Denmark,,,Q11997382,Cabinet of M.P. Friis,Q11997391,Cabinet of Neergaard III,Q11997382,Cabinet of M.P. Friis,Q11997391,Cabinet of Neergaard III
 ,Q11997387,Cabinet of Neergaard I,,,1908-10-12,11,,,1909-08-16,11,Q1503072,Cabinet of Denmark,,,,,,,Q11997385,Cabinet of J.C. Christensen II,Q11997379,Cabinet of Holstein-Ledreborg
 ,Q11997388,Cabinet of Otto Liebe,,,1920-03-30,11,,,1920-04-05,11,Q1503072,Cabinet of Denmark,,,,,Q11997382,Cabinet of M.P. Friis,Q11997396,Cabinet of Zahle II,Q11997382,Cabinet of M.P. Friis
@@ -61,7 +61,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q12333093,Cabinet of Thorvald Stauning VI,,,1940-07-08,11,,,1942-05-04,11,Q1503072,Cabinet of Denmark,,,Q12525583,Cabinet of Thorvald Stauning V,Q11997395,Cabinet of Vilhelm Buhl I,Q12525583,Cabinet of Thorvald Stauning V,Q11997395,Cabinet of Vilhelm Buhl I
 ,Q12525583,Cabinet of Thorvald Stauning V,,,1940-04-10,11,,,1940-07-08,11,Q1503072,Cabinet of Denmark,,,Q11997393,Cabinet of Thorvald Stauning IV,Q12333093,Cabinet of Thorvald Stauning VI,Q11997393,Cabinet of Thorvald Stauning IV,Q12333093,Cabinet of Thorvald Stauning VI
 ,Q90229318,Cabinet of Hans Hedtoft III,,,1953-09-30,11,,,1955-02-01,11,Q1503072,Cabinet of Denmark,,,,,,,Q3429649,Cabinet of Erik Eriksen,Q3429191,Cabinet of H. C. Hansen I
-,Q97616170,Q97616170,,,1905-01-14,11,,,1908-07-24,11,Q1503072,Cabinet of Denmark,,,,,,,Q3430325,Cabinet of Deuntzer,Q11997385,Cabinet of J.C. Christensen II
+,Q97616170,Cabinet of Christensen l,,,1905-01-14,11,,,1908-07-24,11,Q1503072,Cabinet of Denmark,,,,,,,Q3430325,Cabinet of Deuntzer,Q11997385,Cabinet of J.C. Christensen II
 ,Q3364668,Cabinet of Hørring,1897-05-23,11,1897-05-23,11,1900-04-27,11,1900-04-27,11,Q1503072,Cabinet of Denmark,,,Q3431332,Cabinet of Reedtz-Thott,Q3430576,Cabinet of Sehested,Q3431332,Cabinet of Reedtz-Thott,Q3430576,Cabinet of Sehested
 ,Q3430576,Cabinet of Sehested,1900-04-27,11,1900-04-27,11,1901-07-24,11,1901-07-24,11,Q1503072,Cabinet of Denmark,,,Q3364668,Cabinet of Hørring,,,Q3364668,Cabinet of Hørring,Q3430325,Cabinet of Deuntzer
 ,Q2066841,Cabinet of Poul Nyrup Rasmussen I,1993-01-25,11,1993-01-25,11,1994-09-27,11,1994-09-27,11,Q1503072,Cabinet of Denmark,,,Q2932354,Cabinet of Poul Schlüter IV,Q2066766,Cabinet of Poul Nyrup Rasmussen II,Q2932354,Cabinet of Poul Schlüter IV,Q2066766,Cabinet of Poul Nyrup Rasmussen II
