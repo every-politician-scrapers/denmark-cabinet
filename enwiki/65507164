@@ -78,6 +78,13 @@
       ],
       "templates": [
         {
+          "list": [
+            "the Danish footballer",
+            "Flemming Mortensen"
+          ],
+          "template": "for"
+        },
+        {
           "description": "Danish politician",
           "template": "short description"
         },
