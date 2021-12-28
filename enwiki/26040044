@@ -38,7 +38,7 @@
         {
           "sentences": [
             {
-              "text": "Mette Frederiksen (born 19 November 1977) is a Danish politician who has been Prime Minister of Denmark since June 2019 and Leader of the Social Democrats since June 2015.",
+              "text": "Mette Frederiksen (born 19 November 1977) is a Danish politician who has been Prime Minister of Denmark since June 2019, and Leader of the Social Democrats since June 2015.",
               "links": [
                 {
                   "type": "internal",
@@ -122,7 +122,7 @@
               ]
             },
             {
-              "text": "After the Social Democrats' narrow defeat in the 2015 general election, Thorning-Schmidt stood down and Frederiksen won the subsequent leadership election to replace her, becoming Leader of the Opposition.",
+              "text": "After the Social Democrats' narrow defeat in the 2015 general election, Thorning-Schmidt stood down, and Frederiksen won the subsequent leadership election to replace her, becoming Leader of the Opposition.",
               "links": [
                 {
                   "text": "2015 general election",
@@ -146,7 +146,7 @@
         {
           "sentences": [
             {
-              "text": "Frederiksen led her party into the 2019 general election, which resulted in the bloc of left-wing and centre-left parties (her Social Democrats, the Social Liberals, the Socialist People's Party, the Red–Green Alliance, the Faroese Social Democratic Party and Greenland's Siumut and Inuit Ataqatigiit) winning a majority in the Folketing.",
+              "text": "Frederiksen led her party into the 2019 general election, which resulted in the bloc of left-wing and centre-left parties (her Social Democrats, the Social Liberals, the Socialist People's Party, the Red–Green Alliance, the Faroese Social Democratic Party, and Greenland's Siumut and Inuit Ataqatigiit) winning a majority in the Folketing.",
               "links": [
                 {
                   "text": "2019 general election",
@@ -208,7 +208,7 @@
               ]
             },
             {
-              "text": "Frederiksen was subsequently commissioned by Queen Margrethe II to lead negotiations to form a new government and was sworn in as prime minister on 27 June.",
+              "text": "Frederiksen was subsequently commissioned by Queen Margrethe II to lead negotiations to form a new government, and was sworn in as prime minister on 27 June.",
               "links": [
                 {
                   "text": "Queen Margrethe II",
@@ -219,6 +219,24 @@
                   "text": "negotiations",
                   "type": "internal",
                   "page": "Frederiksen Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2021, she became the longest-serving incumbent female head of government in the European Union.",
+              "links": [
+                {
+                  "text": "head of government",
+                  "type": "internal",
+                  "page": "head of government"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Union"
                 }
               ]
             }
