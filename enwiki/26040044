@@ -588,34 +588,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.dw.com/en/denmarks-youngest-prime-minister-to-lead-new-government/a-49357121",
-          "title": "Denmark's youngest prime minister to lead new government",
-          "publisher": "Deutsche Welle",
-          "date": "25 June 2019",
-          "access-date": "27 June 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://politiken.dk/indland/politik/folketingsvalg2015/ECE2726224/portraet-mette-frederiksen-skal-finde-sin-egen-vej/",
-          "title": "Portræt: Mette Frederiksen skal finde sin egen vej",
-          "trans-title": "Portrait: Mette Frederiksen has to find her own way",
-          "work": "Politiken",
-          "date": "20 June 2015",
-          "language": "da",
-          "access-date": "22 June 2015",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

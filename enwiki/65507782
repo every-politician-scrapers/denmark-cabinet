@@ -218,52 +218,6 @@
             "number": 1
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://ina.gl/media/2538260/f-faelles-personoplysninger-cv-hverv-og-oekonomiske-interesser-cver-2018-laast-cv-m%C3%BAte-b-egede-da-l.pdf",
-          "title": "CV – Múte B. Egede",
-          "publisher": "Inatsisartut",
-          "language": "da",
-          "archive-url": "https://web.archive.org/web/20200717132900/https://ina.gl/media/2538260/f-faelles-personoplysninger-cv-hverv-og-oekonomiske-interesser-cver-2018-laast-cv-m%C3%BAte-b-egede-da-l.pdf",
-          "archive-date": "July 17, 2020",
-          "access-date": "July 17, 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://knr.gl/da/nyheder/m%C3%BAte-egede-er-ny-formand-naalakkersuisut",
-          "title": "Múte Egede er ny formand for Naalakkersuisut",
-          "last": "Hyldal",
-          "first": "Christine",
-          "publisher": "Kalaallit Nunaata Radioa",
-          "date": "April 23, 2021",
-          "access-date": "April 23, 2021",
-          "language": "da",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.altinget.dk/navnenyt/ia-vaelger-ny-formand",
-          "title": "Grønlandske IA vælger ny formand",
-          "publisher": "Altinget",
-          "language": "da",
-          "date": "December 3, 2018",
-          "access-date": "July 17, 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://knr.gl/da/nyheder/m%C3%BAte-b-egede-er-ny-ia-formand",
-          "title": "Múte B. Egede er ny IA-formand",
-          "last": "Veirum",
-          "first": "Thomas Munk",
-          "publisher": "Kalaallit Nunaata Radioa",
-          "language": "da",
-          "date": "December 1, 2018",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
