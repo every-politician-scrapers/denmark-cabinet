@@ -133,34 +133,6 @@
             "number": 2
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.socialdemokratiet.dk/kommune/koebenhavn/nyheder/2020/11/sophie-haestorp-andersen-bliver-ny-spidskandidat-for-socialdemokratiet-i-koebenhavn-til-kv21/",
-          "title": "Sophie Hæstorp Andersen bliver ny spidskandidat for Socialdemokratiet i København til KV21",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.regionh.dk/politik/regionsraadet/Regionsraadsformanden/Sider/Regionsr%C3%A5dsformanden.aspx",
-          "title": "Regionrådsformanden",
-          "last": "Andersen",
-          "first": "Lena Fredensborg",
-          "work": "Regionsrådet",
-          "publisher": "Region Hovedstaden",
-          "url-status": "live",
-          "archiveurl": "https://web.archive.org/web/20150701163349/https://www.regionh.dk/politik/regionsraadet/Regionsraadsformanden/Sider/Regionsr%C3%A5dsformanden.aspx",
-          "archivedate": "2015-07-01",
-          "accessdate": "2015-07-01",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
