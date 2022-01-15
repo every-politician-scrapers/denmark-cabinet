@@ -359,7 +359,7 @@
             "text": "April 16, 1940"
           },
           "birth_place": {
-            "text": "Amalienborg, Copenhagen, Occupied Denmark",
+            "text": "Amalienborg, Copenhagen, Denmark",
             "links": [
               {
                 "type": "internal",
@@ -370,9 +370,8 @@
                 "page": "Copenhagen"
               },
               {
-                "text": "Occupied Denmark",
                 "type": "internal",
-                "page": "Denmark in World War II"
+                "page": "Denmark"
               }
             ]
           },
