@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Dan Jannik Jørgensen (born 12 June 1975) is a Danish politician of the Social Democrats who is serving as the Minister of Climate and Energy and Public Utilities in the government of Prime Minister Mette Frederiksen.",
+              "text": "Dan Jannik Jørgensen (born 12 June 1975) is a Danish politician of the Social Democrats who is serving as the Minister of Climate and Energy and Public Utilities in the government of Prime MinisterMette Frederiksen.",
               "links": [
                 {
                   "text": "Danish",
@@ -104,12 +104,12 @@
       ],
       "templates": [
         {
-          "date": "May 2021",
-          "template": "cleanup bare urls"
-        },
-        {
           "description": "Danish politician",
           "template": "short description"
+        },
+        {
+          "date": "May 2021",
+          "template": "cleanup bare urls"
         },
         {
           "date": "August 2013",
