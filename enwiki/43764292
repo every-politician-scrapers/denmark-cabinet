@@ -81,6 +81,11 @@
           "template": "birth date and age"
         },
         {
+          "spouse": "Anna Elisabeth Bødskov",
+          "from": "2005",
+          "template": "marriage"
+        },
+        {
           "date": "September 2014",
           "template": "use dmy dates"
         }
@@ -206,7 +211,7 @@
             ]
           },
           "spouse": {
-            "text": "Anna Elisabeth Bødskov"
+            "text": "Anna Elisabeth Bødskov (m. 2005)"
           },
           "party": {
             "text": "Social Democrats",
