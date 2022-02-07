@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Morten Bødskov (born 1 May 1970 in Karup) is a Danish Social Democratic politician, and member of the Folketing, currently serving as the Minister of Taxation under Mette Frederiksen.",
+              "text": "Morten Bødskov (born 1 May 1970 in Karup) is a Danish Social Democratic politician, and member of the Folketing, currently serving as the Minister of Defence under Mette Frederiksen.",
               "links": [
                 {
                   "type": "internal",
@@ -39,6 +39,11 @@
                   "page": "Folketing"
                 },
                 {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Minister of Defence (Denmark)"
+                },
+                {
                   "type": "internal",
                   "page": "Mette Frederiksen"
                 }
@@ -50,8 +55,18 @@
               }
             },
             {
-              "text": "He is the former Minister of Justice in the Government of Helle Thorning-Schmidt.",
+              "text": "He was previously Minister for Taxation under Frederiksen and Minister of Justice in the Government of Helle Thorning-Schmidt.",
               "links": [
+                {
+                  "text": "Minister for Taxation",
+                  "type": "internal",
+                  "page": "Minister for Taxation (Denmark)"
+                },
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Minister of Justice (Denmark)"
+                },
                 {
                   "type": "internal",
                   "page": "Helle Thorning-Schmidt"
@@ -121,12 +136,12 @@
             ]
           },
           "office1": {
-            "text": "Minister of Taxation",
+            "text": "Minister of Defence",
             "links": [
               {
-                "text": "Minister of Taxation",
+                "text": "Minister of Defence",
                 "type": "internal",
-                "page": "Tax Minister of Denmark"
+                "page": "Minister of Defence (Denmark)"
               }
             ]
           },
@@ -140,9 +155,43 @@
             ]
           },
           "term_start1": {
-            "text": "27 June 2019"
+            "text": "4 February 2022"
           },
           "predecessor1": {
+            "text": "Trine Bramsen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Trine Bramsen"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Taxation",
+            "links": [
+              {
+                "text": "Minister of Taxation",
+                "type": "internal",
+                "page": "Tax Minister of Denmark"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Mette Frederiksen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mette Frederiksen"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "27 June 2019"
+          },
+          "term_end2": {
+            "text": "4 February 2022"
+          },
+          "predecessor2": {
             "text": "Karsten Lauritzen",
             "links": [
               {
@@ -151,7 +200,16 @@
               }
             ]
           },
-          "office2": {
+          "successor2": {
+            "text": "Jeppe Bruus",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jeppe Bruus"
+              }
+            ]
+          },
+          "office3": {
             "text": "Minister of Justice",
             "links": [
               {
@@ -161,7 +219,7 @@
               }
             ]
           },
-          "primeminister2": {
+          "primeminister3": {
             "text": "Helle Thorning-Schmidt",
             "links": [
               {
@@ -170,13 +228,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "3 October 2011"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "11 December 2013"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Lars Barfoed",
             "links": [
               {
@@ -185,7 +243,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Karen Hækkerup",
             "links": [
               {

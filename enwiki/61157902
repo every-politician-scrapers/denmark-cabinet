@@ -46,7 +46,7 @@
               }
             },
             {
-              "text": "She is the current Minister of Defence."
+              "text": "She is the current Minister of Transport."
             }
           ]
         },
@@ -116,6 +116,9 @@
           "term_start1": {
             "text": "27 June 2019"
           },
+          "term_end1": {
+            "text": "4 February 2022"
+          },
           "predecessor1": {
             "text": "Claus Hjort Frederiksen",
             "links": [
@@ -125,7 +128,47 @@
               }
             ]
           },
+          "successor1": {
+            "text": "Morten Bødskov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Morten Bødskov"
+              }
+            ]
+          },
           "office2": {
+            "text": "Minister of Transport",
+            "links": [
+              {
+                "text": "Minister of Transport",
+                "type": "internal",
+                "page": "Ministry of Transport (Denmark)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Mette Frederiksen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mette Frederiksen"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "4 February 2022"
+          },
+          "predecessor2": {
+            "text": "Benny Engelbrecht",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benny Engelbrecht"
+              }
+            ]
+          },
+          "office3": {
             "text": "Member of the Folketing",
             "links": [
               {
@@ -135,10 +178,10 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "15 September 2011"
           },
-          "constituency2": {
+          "constituency3": {
             "text": "Funen",
             "links": [
               {
