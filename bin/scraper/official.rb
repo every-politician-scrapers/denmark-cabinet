@@ -11,6 +11,8 @@ class MemberList
       'Minister for Development Cooperation and Nordic Cooperation'  => ['Minister for Development Cooperation', 'Minister for Nordic Cooperation'],
       'Minister for Culture and Minister for Ecclesiastical Affairs' => ['Minister for Culture', 'Minister for Ecclesiastical Affairs'],
       'Minister for Employment and minister for Gender Equality'     => ['Minister for Employment', 'Minister for Gender Equality'],
+      'Minister for Transport and minister for Gender Equality'      => ['Minister for Transport', 'Minister for Gender Equality'],
+      'Minister of the Interior and Housing'                         => ['Minister of the Interior', 'Minister of Housing'],
       'Minister for Children and Education'                          => ['Minister for Children', 'Minister for Education'],
     }.freeze
 
