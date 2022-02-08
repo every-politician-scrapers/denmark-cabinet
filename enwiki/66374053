@@ -1,0 +1,172 @@
+{
+  "title": "Jeppe Bruus Christensen",
+  "pageID": 66374053,
+  "categories": [
+    "Living people",
+    "1978 births",
+    "People from Holbæk Municipality",
+    "Social Democrats (Denmark) politicians",
+    "Members of the Folketing 2011–2015",
+    "Members of the Folketing 2019–2023"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jeppe Bruus Christensen (born 20 April 1978 in Tølløse) is a Danish politician, who is a member of the Folketing for the Social Democrats political party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tølløse"
+                },
+                {
+                  "type": "internal",
+                  "page": "Folketing"
+                },
+                {
+                  "text": "Social Democrats",
+                  "type": "internal",
+                  "page": "Social Democrats (Denmark)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jeppe Bruus Christensen"
+                ]
+              }
+            },
+            {
+              "text": "He was elected into parliament at the 2019 Danish general election.",
+              "links": [
+                {
+                  "text": "2019 Danish general election",
+                  "type": "internal",
+                  "page": "2019 Danish general election"
+                }
+              ]
+            },
+            {
+              "text": "He was previously a member of parliament between 2014 and 2015."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Danish politician",
+          "template": "short description"
+        },
+        {
+          "year": "1978",
+          "month": "4",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office1": {
+            "text": "Minister for Taxation",
+            "links": [
+              {
+                "text": "Minister for Taxation",
+                "type": "internal",
+                "page": "Minister for Taxation (Denmark)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Mette Frederiksen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mette Frederiksen"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "4 February 2022"
+          },
+          "predecessor1": {
+            "text": "Morten Bødskov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Morten Bødskov"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Folketing",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Folketing"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "5 June 2019"
+          },
+          "constituency2": {
+            "text": "Greater Copenhagen",
+            "links": [
+              {
+                "text": "Greater Copenhagen",
+                "type": "internal",
+                "page": "Greater Copenhagen (Folketing constituency)"
+              }
+            ]
+          },
+          "termstart3": {
+            "text": "1 January 2014"
+          },
+          "termend3": {
+            "text": "18 June 2015"
+          },
+          "constituency3": {
+            "text": "Greater Copenhagen",
+            "links": [
+              {
+                "text": "Greater Copenhagen",
+                "type": "internal",
+                "page": "Greater Copenhagen (Folketing constituency)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 20, 1978"
+          },
+          "birth_place": {
+            "text": "Tølløse, Denmark",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tølløse"
+              },
+              {
+                "type": "internal",
+                "page": "Denmark"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democrats",
+            "links": [
+              {
+                "text": "Social Democrats",
+                "type": "internal",
+                "page": "Social Democrats (Denmark)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
