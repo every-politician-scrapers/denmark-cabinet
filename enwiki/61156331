@@ -1,0 +1,594 @@
+{
+  "title": "Frederiksen Cabinet",
+  "pageID": 61156331,
+  "categories": [
+    "Government of Denmark",
+    "Cabinets of Denmark",
+    "2019 establishments in Denmark",
+    "Cabinets established in 2019",
+    "Current governments"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Cabinet of Mette Frederiksen took office on 27 June 2019, and succeeded the Third Cabinet of Lars Løkke Rasmussen, following the 2019 Danish general election.",
+              "links": [
+                {
+                  "text": "Third Cabinet of Lars Løkke Rasmussen",
+                  "type": "internal",
+                  "page": "Lars Løkke Rasmussen III Cabinet"
+                },
+                {
+                  "text": "2019 Danish general election",
+                  "type": "internal",
+                  "page": "2019 Danish general election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Cabinet of Mette Frederiksen"
+                ]
+              }
+            },
+            {
+              "text": "It is a minority government consisting of the Social Democrats.",
+              "links": [
+                {
+                  "text": "minority government",
+                  "type": "internal",
+                  "page": "minority government"
+                },
+                {
+                  "text": "the Social Democrats",
+                  "type": "internal",
+                  "page": "Social Democrats (Denmark)"
+                }
+              ]
+            },
+            {
+              "text": "It relies on parliamentary support from the Red–Green Alliance, the Socialist People's Party, and the Social Liberal Party.",
+              "links": [
+                {
+                  "text": "Red–Green Alliance",
+                  "type": "internal",
+                  "page": "Red–Green Alliance (Denmark)"
+                },
+                {
+                  "text": "Socialist People's Party",
+                  "type": "internal",
+                  "page": "Socialist People's Party (Denmark)"
+                },
+                {
+                  "text": "Social Liberal Party",
+                  "type": "internal",
+                  "page": "Social Liberal Party (Denmark)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "date",
+          "data": {
+            "year": "2019",
+            "month": "06",
+            "date": "27",
+            "df": "y",
+            "template": "start date",
+            "text": "June 27, 2019"
+          }
+        },
+        {
+          "list": [
+            "Elections to be held at the latest on 5 June 2023, but writs can be issued before that at the discretion of the Prime Minister, or if the government gets a majority against it in Folketinget"
+          ],
+          "template": "efn"
+        }
+      ],
+      "infoboxes": [
+        {
+          "cabinet_name": {
+            "text": "Frederiksen"
+          },
+          "cabinet_number": {
+            "text": "78th"
+          },
+          "jurisdiction": {
+            "text": "Denmark"
+          },
+          "flag": {
+            "text": "Flag of Denmark (state).svg"
+          },
+          "flag_border": {
+            "text": "true"
+          },
+          "incumbent": {
+            "text": "2019–present"
+          },
+          "image": {
+            "text": "Mette Frederiksen 2019.jpg"
+          },
+          "caption": {
+            "text": "Frederiksen in 2019"
+          },
+          "date_formed": {
+            "text": "June 27, 2019"
+          },
+          "government_head": {
+            "text": "Mette Frederiksen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mette Frederiksen"
+              }
+            ]
+          },
+          "state_head": {
+            "text": "Margrethe II of Denmark",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Margrethe II of Denmark"
+              }
+            ]
+          },
+          "members_number": {
+            "text": "20",
+            "number": 20
+          },
+          "political_party": {
+            "text": "Social Democrats",
+            "links": [
+              {
+                "text": "Social Democrats",
+                "type": "internal",
+                "page": "Social Democrats (Denmark)"
+              }
+            ]
+          },
+          "legislature_status": {
+            "text": "Minority\nSupported by: \nSocial Liberals\nSF\nRed–Greens",
+            "links": [
+              {
+                "text": "Minority",
+                "type": "internal",
+                "page": "Minority government"
+              },
+              {
+                "text": "Social Liberals",
+                "type": "internal",
+                "page": "Danish Social Liberal Party"
+              },
+              {
+                "text": "SF",
+                "type": "internal",
+                "page": "Socialist People's Party (Denmark)"
+              },
+              {
+                "text": "Red–Greens",
+                "type": "internal",
+                "page": "Red–Green Alliance (Denmark)"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Supported by:"
+              ]
+            }
+          },
+          "opposition_parties": {
+            "text": "Venstre\nDanish People's Party\nConservative People's Party\nNew Right\nLiberal Alliance\nIndependent Greens\nAlternative\nChristian Democrats\nUnion Party",
+            "links": [
+              {
+                "text": "Venstre",
+                "type": "internal",
+                "page": "Venstre (Denmark)"
+              },
+              {
+                "type": "internal",
+                "page": "Danish People's Party"
+              },
+              {
+                "text": "Conservative People's Party",
+                "type": "internal",
+                "page": "The Conservative People's Party (Denmark)"
+              },
+              {
+                "text": "New Right",
+                "type": "internal",
+                "page": "New Right (Denmark)"
+              },
+              {
+                "text": "Liberal Alliance",
+                "type": "internal",
+                "page": "Liberal Alliance (Denmark)"
+              },
+              {
+                "text": "Independent Greens",
+                "type": "internal",
+                "page": "Independent Greens (Denmark)"
+              },
+              {
+                "text": "Alternative",
+                "type": "internal",
+                "page": "The Alternative (Denmark)"
+              },
+              {
+                "text": "Christian Democrats",
+                "type": "internal",
+                "page": "Christian Democrats (Denmark)"
+              },
+              {
+                "text": "Union Party",
+                "type": "internal",
+                "page": "Union Party (Faroe Islands)"
+              }
+            ]
+          },
+          "legislature_term": {
+            "text": "2019-2023",
+            "links": [
+              {
+                "text": "2019-2023",
+                "type": "internal",
+                "page": "2019 Danish general election"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Løkke Rasmussen III",
+            "links": [
+              {
+                "text": "Løkke Rasmussen III",
+                "type": "internal",
+                "page": "Lars Løkke Rasmussen III Cabinet"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "What you need to know about Denmark’s new government agreement",
+          "url": "https://www.thelocal.dk/20190626/what-you-need-to-know-about-denmarks-new-government-agreement",
+          "access-date": "10 July 2019",
+          "work": "The Local.dk",
+          "agency": "Ritzau/AFP/The Local",
+          "date": "26 June 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Frederiksen",
+          "first1": "Mette",
+          "last2": "Østergaard",
+          "first2": "Morten",
+          "last3": "Dyhr",
+          "first3": "Pia Olsen",
+          "last4": "Skipper",
+          "first4": "Pernille",
+          "title": "Retfærdig retning for Danmark",
+          "url": "https://ufm.dk/ministeriet/regeringsgrundlag-vision-og-strategier/regeringen-mette-frederiksens-forstaelsespapir/retfaerdig-retning-for-danmark_2019-06-25_endelig.pdf",
+          "access-date": "14 November 2019",
+          "language": "da",
+          "date": "25 June 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "List of ministers",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The cabinet consists of:"
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "hiderefcol": "n",
+          "template": "cabinet table start"
+        },
+        {
+          "list": [
+            "Prime Minister's Office"
+          ],
+          "template": "cabinet table ministry"
+        },
+        {
+          "title": "Prime Minister",
+          "minister1": "Mette Frederiksen",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Finance",
+          "minister1": "Nicolai Wammen",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Foreign Affairs",
+          "minister1": "Jeppe Kofod",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Justice",
+          "minister1": "Nick Hækkerup",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister of Social Affairs and the Elderly",
+          "minister1": "Astrid Krag",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Taxation",
+          "minister1": "Morten Bødskov",
+          "minister1_termstart": "27 June 2019",
+          "minister1_termend": "4 Febuary 2022",
+          "minister1_party": "Social Democrats (Denmark)",
+          "minister2": "Jeppe Bruus Christensen",
+          "minister2_termstart": "4 February 2022",
+          "minister2_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Climate, Energy and Utilities",
+          "minister1": "Dan Jørgensen",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Food, Agriculture and Fishery",
+          "minister1": "Mogens Jensen",
+          "minister1_termstart": "27 June 2019",
+          "minister1_termend": "18 November 2020",
+          "minister1_party": "Social Democrats (Denmark)",
+          "minister2": "Rasmus Prehn",
+          "minister2_termstart": "19 November 2020",
+          "minister2_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Nordic Cooperation",
+          "minister1": "Mogens Jensen",
+          "minister1_termstart": "27 June 2019",
+          "minister1_termend": "18 November 2020",
+          "minister1_party": "Social Democrats (Denmark)",
+          "minister2": "Flemming Møller Mortensen",
+          "minister2_termstart": "19 November 2020",
+          "minister2_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Health",
+          "minister1": "Magnus Heunicke",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Transport",
+          "minister1": "Benny Engelbrecht",
+          "minister1_termstart": "27 June 2019",
+          "minister1_termend": "3 February 2022",
+          "minister1_party": "Social Democrats (Denmark)",
+          "minister2": "Trine Bramsen",
+          "minister2_termstart": "4 February 2022",
+          "minister2_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Development Cooperation",
+          "minister1": "Rasmus Prehn",
+          "minister1_termstart": "27 June 2019",
+          "minister1_termend": "19 November 2020",
+          "minister1_party": "Social Democrats (Denmark)",
+          "minister2": "Flemming Møller Mortensen",
+          "minister2_termstart": "19 November 2020",
+          "minister2_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Children and Education",
+          "minister1": "Pernille Rosenkrantz-Theil",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Defence",
+          "minister1": "Trine Bramsen",
+          "minister1_termstart": "27 June 2019",
+          "minister1_termend": "4 February 2022",
+          "minister1_party": "Social Democrats (Denmark)",
+          "minister2": "Morten Bødskov",
+          "minister2_termstart": "4 February 2022",
+          "minister2_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "[[Ministry of Higher Education and Science (Denmark)|Minister for Science, Technology,\nInformation and Higher Education]]",
+          "minister1": "Ane Halsboe-Jørgensen",
+          "minister1_termstart": "27 June 2019",
+          "minister1_termend": "16 August 2021",
+          "minister1_party": "Social Democrats (Denmark)",
+          "minister2": "Jesper Petersen",
+          "minister2_termstart": "16 August 2021",
+          "minister2_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Industry, Business and Financial Affairs",
+          "minister1": "Simon Kollerup",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Immigration and Integration",
+          "minister1": "Mattias Tesfaye",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Employment",
+          "minister1": "Peter Hummelgaard Thomsen",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Equality",
+          "minister1": "Peter Hummelgaard Thomsen",
+          "minister1_termstart": "27 June 2019",
+          "minister1_termend": "4 February 2022",
+          "minister1_party": "Social Democrats (Denmark)",
+          "minister2": "Trine Bramsen",
+          "minister2_termstart": "4 February 2022",
+          "minister2_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for the Interior and Housing",
+          "minister1": "Kaare Dybvad",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for the Environment",
+          "minister1": "Lea Wermelin",
+          "minister1_termstart": "27 June 2019",
+          "minister1_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "title": "Minister for Culture and Church",
+          "minister1": "Joy Mogensen",
+          "minister1_termstart": "27 June 2019",
+          "minister1_termend": "16 August 2021",
+          "minister1_party": "Social Democrats (Denmark)",
+          "minister2": "Ane Halsboe-Jørgensen",
+          "minister2_termstart": "16 August 2021",
+          "minister2_party": "Social Democrats (Denmark)",
+          "template": "cabinet table minister"
+        },
+        {
+          "template": "cabinet table end"
+        }
+      ],
+      "references": [
+        {
+          "last1": "Deleuran Müller",
+          "first1": "Thea",
+          "title": "Danmarks nye regering er nu på plads: Se hele Mette Frederiksens ministerhold her",
+          "url": "https://www.dr.dk/nyheder/politik/danmarks-nye-regering-er-nu-paa-plads-se-hele-mette-frederiksens-ministerhold-her",
+          "language": "da",
+          "access-date": "27 June 2019",
+          "date": "27 June 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Nye ministre i regeringen",
+          "url": "https://www.stm.dk/presse/pressemeddelelser/nye-ministre-i-regeringen-1/",
+          "website": "stm.dk",
+          "publisher": "Prime Ministers Office",
+          "access-date": "5 February 2022",
+          "language": "da",
+          "date": "4 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Holst",
+          "first1": "Emma Qvirin",
+          "title": "Mette Frederiksen klar med rokade: Flemming Møller Mortensen er ny på ministerholdet",
+          "url": "https://www.altinget.dk/artikel/mette-frederiksen-klar-med-rokade-xx-er-ny-paa-ministerholdet",
+          "access-date": "19 November 2020",
+          "work": "altinget.dk",
+          "agency": "Altinget",
+          "date": "19 November 2020",
+          "language": "da",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Westersø",
+          "first1": "Rikke Struck",
+          "title": "Ane Halsboe-Jørgensen er ny kulturminister, og Jesper Petersen bliver uddannelsesminister",
+          "url": "https://nyheder.tv2.dk/politik/2021-08-16-ane-halsboe-joergensen-er-ny-kulturminister-og-jesper-petersen-bliver",
+          "access-date": "17 August 2021",
+          "work": "nyheder.tv2.dk",
+          "publisher": "TV2",
+          "date": "16 August 2021",
+          "language": "da",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "group": "lower-alpha",
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "title": "Cabinet of Denmark",
+          "before": "Løkke Rasmussen III",
+          "years": "2019–",
+          "after": "Incumbent",
+          "template": "succession box"
+        },
+        {
+          "template": "cabinets of denmark"
+        },
+        {
+          "template": "kingdom of denmark governments"
+        },
+        {
+          "template": "eu governments"
+        }
+      ]
+    }
+  ]
+}
