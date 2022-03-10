@@ -1,314 +1,41 @@
 {
-  "title": "Henrik Dam Kristensen",
-  "pageID": 1478907,
-  "categories": [
-    "1957 births",
-    "Living people",
-    "People from Billund Municipality",
-    "MEPs for Denmark 2004–2009",
-    "Social Democrats (Denmark) politicians",
-    "Social Democrats (Denmark) MEPs",
-    "Speakers of the Folketing",
-    "Government ministers of Denmark",
-    "Agriculture ministers of Denmark",
-    "Members of the Folketing 1990–1994",
-    "Members of the Folketing 1994–1998",
-    "Members of the Folketing 1998–2001",
-    "Members of the Folketing 2001–2005",
-    "Members of the Folketing 2007–2011",
-    "Members of the Folketing 2011–2015",
-    "Members of the Folketing 2015–2019",
-    "Members of the Folketing 2019–2023"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Henrik Dam Kristensen (born 31 January 1957 in Vorbasse) is a Danish politician and the current speaker of the Danish parliament.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Vorbasse"
-                },
-                {
-                  "text": "Danish politician",
-                  "type": "internal",
-                  "page": "Politics of Denmark"
-                },
-                {
-                  "text": "Danish parliament",
-                  "type": "internal",
-                  "page": "Folketinget"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Henrik Dam Kristensen"
-                ]
-              }
-            },
-            {
-              "text": "He has been a member of the Danish parliament for the Social Democrats from 1990–2004 and again from 2007, during which he served as Minister for Agriculture and Fisheries (1994–1996), Minister for Food (1996–2000), Minister for Social Affairs (2000–2001), Minister for Transport (2011–2013) and Minister for Employment (2014–2015).",
-              "links": [
-                {
-                  "text": "Social Democrats",
-                  "type": "internal",
-                  "page": "Social Democrats (Denmark)"
-                },
-                {
-                  "text": "Minister for Employment",
-                  "type": "internal",
-                  "page": "Minister for Employment (Denmark)"
-                }
-              ]
-            },
-            {
-              "text": "He served as President of the Nordic Council in 2011 and 2016.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Nordic Council"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Danish politician",
-          "template": "short description"
-        },
-        {
-          "year": "1957",
-          "month": "1",
-          "day": "31",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Henrik Dam Kristensen (S) Danmark. Nordiska radets session i Helsingfors 2008-10-27.jpg"
-          },
-          "order": {
-            "text": "Speaker of the Danish Parliament",
-            "links": [
-              {
-                "text": "Speaker of the Danish Parliament",
-                "type": "internal",
-                "page": "List of Speakers of the Parliament of Denmark"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "21 June 2019"
-          },
-          "predecessor": {
-            "text": "Pia Kjærsgaard",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pia Kjærsgaard"
-              }
-            ]
-          },
-          "order1": {
-            "text": "Minister of Food, Agriculture and Fisheries",
-            "links": [
-              {
-                "text": "Minister of Food, Agriculture and Fisheries",
-                "type": "internal",
-                "page": "Minister for Food, Agriculture and Fisheries (Denmark)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "27 September 1994"
-          },
-          "term_end1": {
-            "text": "23 February 2000"
-          },
-          "order2": {
-            "text": "Minister of Social Affairs",
-            "links": [
-              {
-                "text": "Minister of Social Affairs",
-                "type": "internal",
-                "page": "Ministry of Social Affairs (Denmark)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "23 February 2000"
-          },
-          "term_end2": {
-            "text": "27 November 2001"
-          },
-          "order3": {
-            "text": "Minister of Social Affairs",
-            "links": [
-              {
-                "text": "Minister of Social Affairs",
-                "type": "internal",
-                "page": "Ministry of Social Affairs (Denmark)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "23 February 2000"
-          },
-          "term_end3": {
-            "text": "27 November 2001"
-          },
-          "order4": {
-            "text": "Minister of Transport",
-            "links": [
-              {
-                "text": "Minister of Transport",
-                "type": "internal",
-                "page": "Ministry of Transport (Denmark)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "3 October 2011"
-          },
-          "term_end4": {
-            "text": "9 August 2013"
-          },
-          "order5": {
-            "text": "Minister for Employment",
-            "links": [
-              {
-                "text": "Minister for Employment",
-                "type": "internal",
-                "page": "Minister for Employment (Denmark)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "10 October 2014"
-          },
-          "term_end5": {
-            "text": "28 June 2015"
-          },
-          "office6": {
-            "text": "Member of the Folketing",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Folketing"
-              }
-            ]
-          },
-          "termstart6": {
-            "text": "13 November 2007"
-          },
-          "constituency6": {
-            "text": "East Jutland",
-            "links": [
-              {
-                "text": "East Jutland",
-                "type": "internal",
-                "page": "East Jutland (Folketing constituency)"
-              }
-            ]
-          },
-          "termstart7": {
-            "text": "12 December 1990"
-          },
-          "termend7": {
-            "text": "7 July 2004"
-          },
-          "constituency7": {
-            "text": "Ribe"
-          },
-          "constituency_mp8": {
-            "text": "Denmark",
-            "links": [
-              {
-                "text": "Denmark",
-                "type": "internal",
-                "page": "Denmark (European Parliament constituency)"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "2004",
-            "number": 2004
-          },
-          "term_end8": {
-            "text": "2006",
-            "number": 2006
-          },
-          "parliament8": {
-            "text": "European"
-          },
-          "office9": {
-            "text": "President of the Nordic Council",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of the Nordic Council"
-              }
-            ]
-          },
-          "termstart9": {
-            "text": "2011",
-            "number": 2011
-          },
-          "termend9": {
-            "text": "2012",
-            "number": 2012
-          },
-          "termstart10": {
-            "text": "2016",
-            "number": 2016
-          },
-          "termend10": {
-            "text": "2017",
-            "number": 2017
-          },
-          "birth_name": {
-            "text": "Henrik Dam Kristensen"
-          },
-          "birth_date": {
-            "text": "January 31, 1957"
-          },
-          "birth_place": {
-            "text": "Vorbasse, Denmark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vorbasse"
-              },
-              {
-                "type": "internal",
-                "page": "Denmark"
-              }
-            ]
-          },
-          "party": {
-            "text": "Social Democrats",
-            "links": [
-              {
-                "text": "Social Democrats",
-                "type": "internal",
-                "page": "Social Democrats (Denmark)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Bente Dam Kristensen"
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Henrik Dam Kristensen (S) Danmark. Nordiska radets session i Helsingfors 2008-10-27.jpg",
+  "order": "Speaker of the Danish Parliament",
+  "term_start": "21 June 2019",
+  "predecessor": "Pia Kjærsgaard",
+  "order1": "Minister of Food, Agriculture and Fisheries",
+  "term_start1": "27 September 1994",
+  "term_end1": "23 February 2000",
+  "order2": "Minister of Social Affairs",
+  "term_start2": "23 February 2000",
+  "term_end2": "27 November 2001",
+  "order3": "Minister of Social Affairs",
+  "term_start3": "23 February 2000",
+  "term_end3": "27 November 2001",
+  "order4": "Minister of Transport",
+  "term_start4": "3 October 2011",
+  "term_end4": "9 August 2013",
+  "order5": "Minister for Employment",
+  "term_start5": "10 October 2014",
+  "term_end5": "28 June 2015",
+  "office6": "Member of the Folketing",
+  "termstart6": "13 November 2007",
+  "constituency6": "East Jutland",
+  "termstart7": "12 December 1990",
+  "termend7": "7 July 2004",
+  "constituency7": "Ribe",
+  "constituency_mp8": "Denmark",
+  "term_start8": "2004",
+  "term_end8": "2006",
+  "parliament8": "European",
+  "office9": "President of the Nordic Council",
+  "termstart9": "2011",
+  "termend9": "2012",
+  "termstart10": "2016",
+  "termend10": "2017",
+  "birth_name": "Henrik Dam Kristensen",
+  "birth_date": "January 31, 1957",
+  "birth_place": "Vorbasse, Denmark",
+  "party": "Social Democrats",
+  "spouse": "Bente Dam Kristensen"
 }
