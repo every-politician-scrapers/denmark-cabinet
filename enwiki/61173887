@@ -1,335 +1,39 @@
 {
-  "title": "Nick Hækkerup",
-  "pageID": 61173887,
-  "categories": [
-    "1968 births",
-    "Living people",
-    "People from Fredensborg Municipality",
-    "Danish writers",
-    "Government ministers of Denmark",
-    "Danish Justice Ministers",
-    "Danish Defence Ministers",
-    "Danish Health Ministers",
-    "Danish municipal councillors",
-    "Social Democrats (Denmark) politicians",
-    "University of Copenhagen alumni",
-    "Members of the Folketing 2007–2011",
-    "Members of the Folketing 2011–2015",
-    "Members of the Folketing 2015–2019",
-    "Members of the Folketing 2019–2023"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nick Hækkerup (born 3 April 1968 in Fredensborg) is a Danish writer and politician, who is a member of the Folketing for the Social Democrats political party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Fredensborg"
-                },
-                {
-                  "type": "internal",
-                  "page": "Folketing"
-                },
-                {
-                  "text": "Social Democrats",
-                  "type": "internal",
-                  "page": "Social Democrats (Denmark)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nick Hækkerup"
-                ]
-              }
-            },
-            {
-              "text": "He has served as the Minister of Justice in the Frederiksen Cabinet since 2019.",
-              "links": [
-                {
-                  "text": "Minister of Justice",
-                  "type": "internal",
-                  "page": "Minister of Justice (Denmark)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Frederiksen Cabinet"
-                }
-              ]
-            },
-            {
-              "text": ", and previously as Minister of Defence, and Minister of Health.",
-              "links": [
-                {
-                  "text": "Minister of Defence",
-                  "type": "internal",
-                  "page": "Minister of Defence (Denmark)"
-                },
-                {
-                  "text": "Minister of Health",
-                  "type": "internal",
-                  "page": "Minister of Health (Denmark)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He has also written a number of books about the politics of the European Union, and on danish politics.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "European Union"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Danish politician",
-          "template": "short description"
-        },
-        {
-          "year": "1968",
-          "month": "04",
-          "day": "03",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Nick Hækkerup.jpg"
-          },
-          "office": {
-            "text": "Minister of Justice",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Minister of Justice (Denmark)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "27 June 2019"
-          },
-          "primeminister": {
-            "text": "Mette Frederiksen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mette Frederiksen"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Søren Pape Poulsen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Søren Pape Poulsen"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Health",
-            "links": [
-              {
-                "text": "Minister of Health",
-                "type": "internal",
-                "page": "Minister of Health (Denmark)"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Helle Thorning-Schmidt",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Helle Thorning-Schmidt"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "3 February 2014"
-          },
-          "term_end1": {
-            "text": "28 June 2015"
-          },
-          "predecessor1": {
-            "text": "Astrid Krag",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Astrid Krag"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Sophie Løhde",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sophie Løhde"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Trade and European Affairs",
-            "links": [
-              {
-                "text": "Minister of Trade and European Affairs",
-                "type": "internal",
-                "page": "Minister of European Affairs (Denmark)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "9 August 2013"
-          },
-          "term_end2": {
-            "text": "3 February 2014"
-          },
-          "primeminister2": {
-            "text": "Helle Thorning-Schmidt"
-          },
-          "predecessor2": {
-            "text": "Nicolai Wammen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicolai Wammen"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Position abolished"
-          },
-          "office3": {
-            "text": "Minister of Defence",
-            "links": [
-              {
-                "text": "Minister of Defence",
-                "type": "internal",
-                "page": "Minister of Defence (Denmark)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "3 October 2011"
-          },
-          "term_end3": {
-            "text": "9 August 2013"
-          },
-          "primeminister3": {
-            "text": "Helle Thorning-Schmidt"
-          },
-          "predecessor3": {
-            "text": "Troels Lund Poulsen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Troels Lund Poulsen"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Nicolai Wammen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicolai Wammen"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of the Folketing",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Folketing"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "13 November 2007"
-          },
-          "constituency4": {
-            "text": "North Zealand",
-            "links": [
-              {
-                "text": "North Zealand",
-                "type": "internal",
-                "page": "North Zealand (Folketing constituency)"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Mayor of Hillerød",
-            "links": [
-              {
-                "text": "Mayor of Hillerød",
-                "type": "internal",
-                "page": "Hillerød"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1 January 2007"
-          },
-          "term_end5": {
-            "text": "13 November 2007"
-          },
-          "successor5": {
-            "text": "Kirsten Jensen"
-          },
-          "term_start6": {
-            "text": "1 January 2000"
-          },
-          "term_end6": {
-            "text": "31 December 2006"
-          },
-          "predecessor6": {
-            "text": "Jens S. Jensen"
-          },
-          "birth_date": {
-            "text": "April 3, 1968"
-          },
-          "birth_place": {
-            "text": "Fredensborg, Denmark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fredensborg"
-              }
-            ]
-          },
-          "party": {
-            "text": "Social Democrats",
-            "links": [
-              {
-                "text": "Social Democrats",
-                "type": "internal",
-                "page": "Social Democrats (Denmark)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Petra Freisleben Hækkerup"
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Nick Hækkerup.jpg",
+  "office": "Minister of Justice",
+  "term_start": "27 June 2019",
+  "primeminister": "Mette Frederiksen",
+  "predecessor": "Søren Pape Poulsen",
+  "office1": "Minister of Health",
+  "primeminister1": "Helle Thorning-Schmidt",
+  "term_start1": "3 February 2014",
+  "term_end1": "28 June 2015",
+  "predecessor1": "Astrid Krag",
+  "successor1": "Sophie Løhde",
+  "office2": "Minister of Trade and European Affairs",
+  "term_start2": "9 August 2013",
+  "term_end2": "3 February 2014",
+  "primeminister2": "Helle Thorning-Schmidt",
+  "predecessor2": "Nicolai Wammen",
+  "successor2": "Position abolished",
+  "office3": "Minister of Defence",
+  "term_start3": "3 October 2011",
+  "term_end3": "9 August 2013",
+  "primeminister3": "Helle Thorning-Schmidt",
+  "predecessor3": "Troels Lund Poulsen",
+  "successor3": "Nicolai Wammen",
+  "office4": "Member of the Folketing",
+  "term_start4": "13 November 2007",
+  "constituency4": "North Zealand",
+  "office5": "Mayor of Hillerød",
+  "term_start5": "1 January 2007",
+  "term_end5": "13 November 2007",
+  "successor5": "Kirsten Jensen",
+  "term_start6": "1 January 2000",
+  "term_end6": "31 December 2006",
+  "predecessor6": "Jens S. Jensen",
+  "birth_date": "April 3, 1968",
+  "birth_place": "Fredensborg, Denmark",
+  "party": "Social Democrats",
+  "spouse": "Petra Freisleben Hækkerup"
 }

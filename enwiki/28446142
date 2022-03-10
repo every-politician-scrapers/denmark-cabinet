@@ -1,309 +1,35 @@
 {
-  "title": "Nicolai Wammen",
-  "pageID": 28446142,
-  "categories": [
-    "1971 births",
-    "Living people",
-    "People from Holbæk Municipality",
-    "Mayors of places in Denmark",
-    "Aarhus University alumni",
-    "Social Democrats (Denmark) politicians",
-    "Government ministers of Denmark",
-    "Danish Defence Ministers",
-    "Danish Finance Ministers",
-    "Danish municipal councillors",
-    "Members of the Folketing 2001–2005",
-    "Members of the Folketing 2011–2015",
-    "Members of the Folketing 2015–2019",
-    "Members of the Folketing 2019–2023"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nicolai Halby Wammen (born 7 February 1971, in Holbæk) is a Danish politician of the Social Democrats who has been serving as Minister for Finance in the government of Prime Minister Mette Frederiksen since 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Holbæk"
-                },
-                {
-                  "text": "Social Democrats",
-                  "type": "internal",
-                  "page": "Social Democrats (Denmark)"
-                },
-                {
-                  "text": "Minister for Finance",
-                  "type": "internal",
-                  "page": "List of Finance Ministers of Denmark"
-                },
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "Prime Minister of Denmark"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mette Frederiksen"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nicolai Halby Wammen"
-                ]
-              }
-            },
-            {
-              "text": "A native and lifelong resident of Denmark's second-largest city, Aarhus, he served as mayor.",
-              "links": [
-                {
-                  "text": "Aarhus",
-                  "type": "internal",
-                  "page": "Aarhus Municipality"
-                }
-              ]
-            },
-            {
-              "text": "On the national level, he has served as Minister of European Affairs (2011–2013) and as Minister of Defence (2013–2015)."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Danish politician",
-          "template": "short description"
-        },
-        {
-          "year": "1971",
-          "month": "02",
-          "day": "07",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Nicolai Wammen"
-          },
-          "image": {
-            "text": "Nicolai Wammen, pressefoto.jpg"
-          },
-          "order": {
-            "text": "Minister for Finance",
-            "links": [
-              {
-                "text": "Minister for Finance",
-                "type": "internal",
-                "page": "Minister of Finance (Denmark)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mette Frederiksen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mette Frederiksen"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "27 June 2019"
-          },
-          "predecessor": {
-            "text": "Kristian Jensen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kristian Jensen"
-              }
-            ]
-          },
-          "order2": {
-            "text": "Minister for Defence",
-            "links": [
-              {
-                "text": "Minister for Defence",
-                "type": "internal",
-                "page": "Minister of Defence (Denmark)"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Helle Thorning-Schmidt",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Helle Thorning-Schmidt"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "9 August 2013"
-          },
-          "term_end2": {
-            "text": "28 June 2015"
-          },
-          "predecessor2": {
-            "text": "Nick Hækkerup",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nick Hækkerup"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Carl Holst",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carl Holst"
-              }
-            ]
-          },
-          "order3": {
-            "text": "Minister of European Affairs",
-            "links": [
-              {
-                "text": "Minister of European Affairs",
-                "type": "internal",
-                "page": "Minister of European Affairs (Denmark)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "3 October 2011"
-          },
-          "term_end3": {
-            "text": "9 August 2013"
-          },
-          "primeminister3": {
-            "text": "Helle Thorning-Schmidt"
-          },
-          "predecessor3": {
-            "text": "Office established"
-          },
-          "successor3": {
-            "text": "Nick Hækkerup",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nick Hækkerup"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Mayor of Aarhus Municipality",
-            "links": [
-              {
-                "text": "Mayor of Aarhus Municipality",
-                "type": "internal",
-                "page": "Aarhus Municipality"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "2006",
-            "number": 2006
-          },
-          "term_end4": {
-            "text": "2011",
-            "number": 2011
-          },
-          "predecessor4": {
-            "text": "Louise Gade",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Louise Gade"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Jacob B. Johansen",
-            "links": [
-              {
-                "text": "Jacob B. Johansen",
-                "type": "internal",
-                "page": "Jacob Bundsgaard"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of the Folketing",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Folketing"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "15 September 2011"
-          },
-          "constituency5": {
-            "text": "East Jutland",
-            "links": [
-              {
-                "text": "East Jutland",
-                "type": "internal",
-                "page": "East Jutland (Folketing constituency)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "20 November 2001"
-          },
-          "term_end6": {
-            "text": "8 February 2005"
-          },
-          "constituency6": {
-            "text": "Århus"
-          },
-          "birth_date": {
-            "text": "February 7, 1971"
-          },
-          "birth_place": {
-            "text": "Holbæk, Denmark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Holbæk"
-              },
-              {
-                "type": "internal",
-                "page": "Denmark"
-              }
-            ]
-          },
-          "party": {
-            "text": "Social Democrats",
-            "links": [
-              {
-                "text": "Social Democrats",
-                "type": "internal",
-                "page": "Social Democrats (Denmark)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Aarhus",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Aarhus"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Nicolai Wammen",
+  "image": "Nicolai Wammen, pressefoto.jpg",
+  "order": "Minister for Finance",
+  "primeminister": "Mette Frederiksen",
+  "term_start": "27 June 2019",
+  "predecessor": "Kristian Jensen",
+  "order2": "Minister for Defence",
+  "primeminister2": "Helle Thorning-Schmidt",
+  "term_start2": "9 August 2013",
+  "term_end2": "28 June 2015",
+  "predecessor2": "Nick Hækkerup",
+  "successor2": "Carl Holst",
+  "order3": "Minister of European Affairs",
+  "term_start3": "3 October 2011",
+  "term_end3": "9 August 2013",
+  "primeminister3": "Helle Thorning-Schmidt",
+  "predecessor3": "Office established",
+  "successor3": "Nick Hækkerup",
+  "office4": "Mayor of Aarhus Municipality",
+  "term_start4": "2006",
+  "term_end4": "2011",
+  "predecessor4": "Louise Gade",
+  "successor4": "Jacob B. Johansen",
+  "office5": "Member of the Folketing",
+  "term_start5": "15 September 2011",
+  "constituency5": "East Jutland",
+  "term_start6": "20 November 2001",
+  "term_end6": "8 February 2005",
+  "constituency6": "Århus",
+  "birth_date": "February 7, 1971",
+  "birth_place": "Holbæk, Denmark",
+  "party": "Social Democrats",
+  "alma_mater": "University of Aarhus"
 }

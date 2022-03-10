@@ -1,224 +1,28 @@
 {
-  "title": "Múte Bourup Egede",
-  "pageID": 65507782,
-  "categories": [
-    "1987 births",
-    "Living people",
-    "21st-century Danish politicians",
-    "21st-century Greenlandic politicians",
-    "People from Nuuk",
-    "Inuit Ataqatigiit politicians",
-    "Greenlandic nationalists",
-    "Prime Ministers of Greenland"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Múte Inequnaaluk Bourup Egede (born 11 March 1987) is a Greenlandic politician currently serving as the seventh prime minister of Greenland since April 2021.",
-              "links": [
-                {
-                  "text": "prime minister of Greenland",
-                  "type": "internal",
-                  "page": "prime minister of Greenland"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Múte Inequnaaluk Bourup Egede"
-                ]
-              }
-            },
-            {
-              "text": "He has served as a member of the Inatsisartut, the parliament of Greenland, since 2015, and furthermore as chairman of the Inuit Ataqatigiit party since 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Inatsisartut"
-                },
-                {
-                  "type": "internal",
-                  "page": "Inuit Ataqatigiit"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "7th Prime Minister of Greenland",
-          "template": "short description"
-        },
-        {
-          "year": "1987",
-          "month": "03",
-          "day": "11",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "mut͡sːi inɜquˈnaːluk ˈbou̯ʁɔb ˈeːəðə",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Múte Bourup Egede"
-          },
-          "image": {
-            "text": "Múte Bourup Egede May 2021.jpg"
-          },
-          "caption": {
-            "text": "Egede in 2021"
-          },
-          "office": {
-            "text": "7th Prime Minister of Greenland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Greenland"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Margrethe II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Margrethe II"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "23 April 2021"
-          },
-          "predecessor": {
-            "text": "Kim Kielsen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kim Kielsen"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chairman of Inuit Ataqatigiit",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Inuit Ataqatigiit"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 December 2018"
-          },
-          "predecessor1": {
-            "text": "Sara Olsvig",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sara Olsvig"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Communes, Hamlets, Outer Districts, Infrastructure and Housing (acting)"
-          },
-          "term_start2": {
-            "text": "2017",
-            "number": 2017
-          },
-          "term_end2": {
-            "text": "2017",
-            "number": 2017
-          },
-          "predecessor2": {
-            "text": "Martha Lund Olsen"
-          },
-          "office3": {
-            "text": "Minister for Raw Material and the Labour Market"
-          },
-          "term_start3": {
-            "text": "2016",
-            "number": 2016
-          },
-          "term_end3": {
-            "text": "2018",
-            "number": 2018
-          },
-          "predecessor3": {
-            "text": "Mimi Karlsen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mimi Karlsen"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of the Inatsisartut",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Inatsisartut"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "2015",
-            "number": 2015
-          },
-          "birth_date": {
-            "text": "March 11, 1987"
-          },
-          "birth_place": {
-            "text": "Nuuk, Greenland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nuuk"
-              },
-              {
-                "type": "internal",
-                "page": "Greenland"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Greenlandic",
-            "links": [
-              {
-                "text": "Greenlandic",
-                "type": "internal",
-                "page": "Greenland"
-              }
-            ]
-          },
-          "party": {
-            "text": "Inuit Ataqatigiit",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Inuit Ataqatigiit"
-              }
-            ]
-          },
-          "partner": {
-            "text": "Tina Chemnitz"
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Múte Bourup Egede",
+  "image": "Múte Bourup Egede May 2021.jpg",
+  "caption": "Egede in 2021",
+  "office": "7th Prime Minister of Greenland",
+  "monarch": "Margrethe II",
+  "term_start": "23 April 2021",
+  "predecessor": "Kim Kielsen",
+  "office1": "Chairman of Inuit Ataqatigiit",
+  "term_start1": "1 December 2018",
+  "predecessor1": "Sara Olsvig",
+  "office2": "Minister of Communes, Hamlets, Outer Districts, Infrastructure and Housing (acting)",
+  "term_start2": "2017",
+  "term_end2": "2017",
+  "predecessor2": "Martha Lund Olsen",
+  "office3": "Minister for Raw Material and the Labour Market",
+  "term_start3": "2016",
+  "term_end3": "2018",
+  "predecessor3": "Mimi Karlsen",
+  "office4": "Member of the Inatsisartut",
+  "term_start4": "2015",
+  "birth_date": "March 11, 1987",
+  "birth_place": "Nuuk, Greenland",
+  "nationality": "Greenlandic",
+  "party": "Inuit Ataqatigiit",
+  "partner": "Tina Chemnitz",
+  "children": "1"
 }
