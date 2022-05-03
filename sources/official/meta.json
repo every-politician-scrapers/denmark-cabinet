@@ -1,0 +1,21 @@
+{
+    "jurisdiction": {
+      "name": "Denmark",
+      "id": "Q35"
+    },
+    "cabinet": {
+      "id": "Q64831553",
+      "start": "2019-06-27",
+      "parent": "Q1503072"
+
+    },
+    "source": {
+        "url":   "https://www.thedanishparliament.dk/en/members/the-government",
+        "title": "The Government",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/denmark-cabinet"
+}
