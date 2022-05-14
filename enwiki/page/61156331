@@ -16,10 +16,9 @@
         {
           "sentences": [
             {
-              "text": "The Cabinet of Mette Frederiksen took office on 27 June 2019, and succeeded the Third Cabinet of Lars Løkke Rasmussen, following the 2019 Danish general election.",
+              "text": "The Frederiksen Cabinet took office on 27 June 2019 and succeeded the Lars Løkke Rasmussen III Cabinet following the 2019 Danish general election.",
               "links": [
                 {
-                  "text": "Third Cabinet of Lars Løkke Rasmussen",
                   "type": "internal",
                   "page": "Lars Løkke Rasmussen III Cabinet"
                 },
@@ -31,20 +30,24 @@
               ],
               "formatting": {
                 "bold": [
-                  "Cabinet of Mette Frederiksen"
+                  "Frederiksen Cabinet"
                 ]
               }
             },
             {
-              "text": "It is a minority government consisting of the Social Democrats.",
+              "text": "Headed by Prime Minister Mette Frederiksen, it is a minority government consisting of the Social Democrats.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Mette Frederiksen"
+                },
                 {
                   "text": "minority government",
                   "type": "internal",
                   "page": "minority government"
                 },
                 {
-                  "text": "the Social Democrats",
+                  "text": "Social Democrats",
                   "type": "internal",
                   "page": "Social Democrats (Denmark)"
                 }
@@ -87,7 +90,7 @@
         },
         {
           "list": [
-            "Elections to be held at the latest on 5 June 2023, but writs can be issued before that at the discretion of the Prime Minister, or if the government gets a majority against it in Folketinget"
+            "Elections to be held at the latest on 5 June 2023, but writs can be issued before that at the discretion of the Prime Minister, or if the government gets a majority against it in Folketinget."
           ],
           "template": "efn"
         }
@@ -233,10 +236,10 @@
             ]
           },
           "legislature_term": {
-            "text": "2019-2023",
+            "text": "2019–2023",
             "links": [
               {
-                "text": "2019-2023",
+                "text": "2019–2023",
                 "type": "internal",
                 "page": "2019 Danish general election"
               }
@@ -287,15 +290,6 @@
     {
       "title": "List of ministers",
       "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "The cabinet consists of:"
-            }
-          ]
-        }
-      ],
       "templates": [
         {
           "hiderefcol": "n",
