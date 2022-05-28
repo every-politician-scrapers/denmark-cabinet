@@ -326,7 +326,11 @@
           "title": "Minister for Justice",
           "minister1": "Nick Hækkerup",
           "minister1_termstart": "27 June 2019",
+          "minister1_termend": "2 May 2022",
           "minister1_party": "Social Democrats (Denmark)",
+          "minister2": "Mattias Tesfaye",
+          "minister2_termstart": "2 May 2022",
+          "minister2_party": "Social Democrats (Denmark)",
           "template": "cabinet table minister"
         },
         {
@@ -445,7 +449,11 @@
           "title": "Minister for Immigration and Integration",
           "minister1": "Mattias Tesfaye",
           "minister1_termstart": "27 June 2019",
+          "minister1_termend": "2 May 2022",
           "minister1_party": "Social Democrats (Denmark)",
+          "minister2": "Kaare Dybvad",
+          "minister2_termstart": "2 May 2022",
+          "minister2_party": "Social Democrats (Denmark)",
           "template": "cabinet table minister"
         },
         {
@@ -470,7 +478,11 @@
           "title": "Minister for the Interior and Housing",
           "minister1": "Kaare Dybvad",
           "minister1_termstart": "27 June 2019",
+          "minister1_termend": "2 May 2022",
           "minister1_party": "Social Democrats (Denmark)",
+          "minister2": "Christian Rabjerg Madsen",
+          "minister2_termstart": "2 May 2022",
+          "minister2_party": "Social Democrats (Denmark)",
           "template": "cabinet table minister"
         },
         {
@@ -504,6 +516,15 @@
           "language": "da",
           "access-date": "27 June 2019",
           "date": "27 June 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Regeringen Mette Frederiksen",
+          "url": "https://www.regeringen.dk/om-regeringen/regeringer-siden-1848/regeringen-mette-frederiksen/",
+          "language": "da",
+          "access-date": "26 May 2022",
+          "date": "26 May 2022",
           "template": "citation",
           "type": "web"
         },
