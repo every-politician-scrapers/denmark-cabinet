@@ -78,6 +78,10 @@
       ],
       "templates": [
         {
+          "description": "Incumbent Government of Denmark",
+          "template": "short description"
+        },
+        {
           "template": "date",
           "data": {
             "year": "2019",
