@@ -94,6 +94,19 @@
         },
         {
           "list": [
+            "Social Democrats (Denmark)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "48",
+            "179"
+          ],
+          "template": "composition bar"
+        },
+        {
+          "list": [
             "Elections to be held at the latest on 5 June 2023, but writs can be issued before that at the discretion of the Prime Minister, or if the government gets a majority against it in Folketinget."
           ],
           "template": "efn"
