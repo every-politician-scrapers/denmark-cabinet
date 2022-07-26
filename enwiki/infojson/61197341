@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2005-02-08"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Transport (Denmark)"
+      ],
+      "stated_as": "Minister for Transport"
+    },
+    "P580": "2014-02-03",
+    "P1365": {
+      "links": [
+        "Pia Olsen Dyhr"
+      ],
+      "stated_as": "Pia Olsen Dyhr"
+    },
+    "P582": "2015-06-28",
+    "P1366": {
+      "links": [
+        "Hans Christian Schmidt"
+      ],
+      "stated_as": "Hans Christian Schmidt"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health (Denmark)"
+      ],
+      "stated_as": "Minister for Health"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Ellen Trane Nørby"
+      ],
+      "stated_as": "Ellen Trane Nørby"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health (Denmark)"
+      ],
+      "stated_as": "Minister of Elderly Affairs"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Thyra Frank"
+      ],
+      "stated_as": "Thyra Frank"
+    },
+    "P582": "2021-01-21",
+    "P1366": {
+      "links": [
+        "Astrid Krag"
+      ],
+      "stated_as": "Astrid Krag"
+    }
+  }
+]

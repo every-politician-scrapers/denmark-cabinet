@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2011-09-15"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Economic and Business Affairs (Denmark)"
+      ],
+      "stated_as": "Minister of Business Affairs"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Rasmus Jarlov"
+      ],
+      "stated_as": "Rasmus Jarlov"
+    }
+  }
+]

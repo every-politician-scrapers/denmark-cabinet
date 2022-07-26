@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2015-06-18"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for the Environment (Denmark)"
+      ],
+      "stated_as": "Minister for the Environment"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Jakob Ellemann-Jensen"
+      ],
+      "stated_as": "Jakob Ellemann-Jensen"
+    }
+  }
+]

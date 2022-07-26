@@ -1,0 +1,60 @@
+[
+  {
+    "office": {
+      "links": [
+        "Progressive Alliance of Socialists and Democrats",
+        "European Parliament"
+      ],
+      "stated_as": "Member of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+    },
+    "P580": "2004-07-20",
+    "P582": "2013-12-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Food, Agriculture and Fisheries (Denmark)"
+      ],
+      "stated_as": "Minister for Food, Agriculture and Fisheries"
+    },
+    "P580": "2013-12-12",
+    "P1365": {
+      "links": [
+        "Karen Hækkerup"
+      ],
+      "stated_as": "Karen Hækkerup"
+    },
+    "P582": "2015-06-28",
+    "P1366": {
+      "links": [
+        "Eva Kjer Hansen"
+      ],
+      "stated_as": "Eva Kjer Hansen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2015-06-18"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Climate and Energy (Denmark)",
+        "Minister for Public Utilities (Denmark)"
+      ],
+      "stated_as": "Minister of Climate and Energy and Utilities"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Lars Christian Lilleholt"
+      ],
+      "stated_as": "Lars Christian Lilleholt (as Minister for Energy, Utilities and Climate)"
+    }
+  }
+]

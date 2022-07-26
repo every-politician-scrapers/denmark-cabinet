@@ -1,0 +1,31 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2001-11-20",
+    "P582": "2007-11-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2011-09-15"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Children (Denmark)",
+        "Minister of Education (Denmark)"
+      ],
+      "stated_as": "Minister of Children and Education"
+    },
+    "P580": "2019-06-27"
+  }
+]

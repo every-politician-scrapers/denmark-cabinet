@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2001-11-20"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Justice Ministers of Denmark"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2011-10-03",
+    "P1365": {
+      "links": [
+        "Lars Barfoed"
+      ],
+      "stated_as": "Lars Barfoed"
+    },
+    "P582": "2013-12-11",
+    "P1366": {
+      "links": [
+        "Karen Hækkerup"
+      ],
+      "stated_as": "Karen Hækkerup"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Tax Minister of Denmark"
+      ],
+      "stated_as": "Minister of Taxation"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Karsten Lauritzen"
+      ],
+      "stated_as": "Karsten Lauritzen"
+    },
+    "P582": "2022-02-04",
+    "P1366": {
+      "links": [
+        "Jeppe Bruus"
+      ],
+      "stated_as": "Jeppe Bruus"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (Denmark)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2022-02-04",
+    "P1365": {
+      "links": [
+        "Trine Bramsen"
+      ],
+      "stated_as": "Trine Bramsen"
+    }
+  }
+]

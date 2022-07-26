@@ -1,0 +1,78 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing",
+        "Bornholm (Folketing constituency)"
+      ],
+      "stated_as": "Member of the Folketing\nfor Bornholm"
+    },
+    "P580": "1998-03-11",
+    "P1365": {
+      "links": [
+        "Eva Fatum"
+      ],
+      "stated_as": "Eva Fatum"
+    },
+    "P582": "2014-06-30",
+    "P1366": {
+      "links": [
+        "Lea Wermelin"
+      ],
+      "stated_as": "Lea Wermelin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the European Parliament",
+        "Denmark (European Parliament constituency)"
+      ],
+      "stated_as": "Member of the European Parliament\nfor Denmark"
+    },
+    "P580": "2014-07-01",
+    "P1365": {
+      "links": [
+        "Dan Jørgensen"
+      ],
+      "stated_as": "Dan Jørgensen"
+    },
+    "P582": "2019-06-27",
+    "P1366": {
+      "links": [
+        "Marianne Vind"
+      ],
+      "stated_as": "Marianne Vind"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Progressive Alliance of Socialists and Democrats"
+      ],
+      "stated_as": "Vice President of the Progressive Alliance of Socialists and Democrats"
+    },
+    "P580": "2016-12-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Denmark)"
+      ],
+      "stated_as": "Minister for Foreign Affairs"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Anders Samuelsen"
+      ],
+      "stated_as": "Anders Samuelsen"
+    }
+  }
+]

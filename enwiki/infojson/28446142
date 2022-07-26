@@ -1,0 +1,102 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2001-11-20",
+    "P582": "2005-02-08"
+  },
+  {
+    "office": {
+      "links": [
+        "Aarhus Municipality"
+      ],
+      "stated_as": "Mayor of Aarhus Municipality"
+    },
+    "P580": "2006",
+    "P1365": {
+      "links": [
+        "Louise Gade"
+      ],
+      "stated_as": "Louise Gade"
+    },
+    "P582": "2011",
+    "P1366": {
+      "links": [
+        "Jacob Bundsgaard"
+      ],
+      "stated_as": "Jacob B. Johansen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2011-09-15"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of European Affairs (Denmark)"
+      ],
+      "stated_as": "Minister of European Affairs"
+    },
+    "P580": "2011-10-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2013-08-09",
+    "P1366": {
+      "links": [
+        "Nick Hækkerup"
+      ],
+      "stated_as": "Nick Hækkerup"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (Denmark)"
+      ],
+      "stated_as": "Minister for Defence"
+    },
+    "P580": "2013-08-09",
+    "P1365": {
+      "links": [
+        "Nick Hækkerup"
+      ],
+      "stated_as": "Nick Hækkerup"
+    },
+    "P582": "2015-06-28",
+    "P1366": {
+      "links": [
+        "Carl Holst"
+      ],
+      "stated_as": "Carl Holst"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance (Denmark)"
+      ],
+      "stated_as": "Minister for Finance"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Kristian Jensen"
+      ],
+      "stated_as": "Kristian Jensen"
+    }
+  }
+]

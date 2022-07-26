@@ -1,0 +1,108 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2001-11-20"
+  },
+  {
+    "office": {
+      "links": [
+        "Thorning-Schmidt I Cabinet"
+      ],
+      "stated_as": "Minister of Employment"
+    },
+    "P580": "2011-10-03",
+    "P1365": {
+      "links": [
+        "Inger Støjberg"
+      ],
+      "stated_as": "Inger Støjberg"
+    },
+    "P582": "2014-10-10",
+    "P1366": {
+      "links": [
+        "Henrik Dam Kristensen"
+      ],
+      "stated_as": "Henrik Dam Kristensen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Justice Minister (Denmark)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2014-10-10",
+    "P1365": {
+      "links": [
+        "Karen Hækkerup"
+      ],
+      "stated_as": "Karen Hækkerup"
+    },
+    "P582": "2015-06-28",
+    "P1366": {
+      "links": [
+        "Søren Pind"
+      ],
+      "stated_as": "Søren Pind"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition"
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2015-06-28",
+    "P1365": {
+      "links": [
+        "Lars Løkke Rasmussen"
+      ],
+      "stated_as": "Lars Løkke Rasmussen"
+    },
+    "P582": "2019-06-27",
+    "P1366": {
+      "links": [
+        "Lars Løkke Rasmussen"
+      ],
+      "stated_as": "Lars Løkke Rasmussen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Social Democrats (Denmark)"
+      ],
+      "stated_as": "Leader of the Social Democrats"
+    },
+    "P580": "2015-06-28",
+    "P1365": {
+      "links": [
+        "Helle Thorning-Schmidt"
+      ],
+      "stated_as": "Helle Thorning-Schmidt"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Prime Minister of Denmark"
+    },
+    "P1545": "27",
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Lars Løkke Rasmussen"
+      ],
+      "stated_as": "Lars Løkke Rasmussen"
+    }
+  }
+]

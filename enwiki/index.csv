@@ -1,26 +1,26 @@
-pageid,title
-58925,Margrethe II of Denmark
-1478906,Dan Jørgensen
-1478907,Henrik Dam Kristensen
-4230602,Pernille Rosenkrantz-Theil
-16576358,Jeppe Kofod
-26040044,Mette Frederiksen
-28446142,Nicolai Wammen
-37023576,Astrid Krag
-43605465,Christian Rabjerg Madsen
-43764292,Morten Bødskov
-55474829,Sophie Hæstorp Andersen
-61157902,Trine Bramsen
-61158135,Lea Wermelin
-61195450,Ane Halsboe-Jørgensen
-61197341,Magnus Heunicke
-61197853,Mattias Tesfaye
-61201494,Kaare Dybvad
-61201840,Simon Kollerup
-61202983,Rasmus Prehn
-61203155,Peter Hummelgaard Thomsen
-65507164,Flemming Møller Mortensen
-66217520,Flemming Lentfer
-66374053,Jeppe Bruus Christensen
-68499018,Jesper Petersen (politician)
-70429971,Thorkild Fogde
+pageid,title,wikidata,label
+58925,Margrethe II of Denmark,Q102139,Margrethe II of Denmark
+1478906,Dan Jørgensen,Q1159092,Dan Jørgensen
+1478907,Henrik Dam Kristensen,Q1358896,Henrik Dam Kristensen
+4230602,Pernille Rosenkrantz-Theil,Q6517082,Pernille Rosenkrantz-Theil
+16576358,Jeppe Kofod,Q1799046,Jeppe Kofod
+26040044,Mette Frederiksen,Q5015,Mette Frederiksen
+28446142,Nicolai Wammen,Q575363,Nicolai Wammen
+37023576,Astrid Krag,Q463680,Astrid Krag
+43605465,Christian Rabjerg Madsen,Q17580253,Christian Rabjerg Madsen
+43764292,Morten Bødskov,Q375980,Morten Bødskov
+55474829,Sophie Hæstorp Andersen,Q12336450,Sophie Hæstorp Andersen
+61157902,Trine Bramsen,Q12339763,Trine Bramsen
+61158135,Lea Wermelin,Q20174096,Lea Wermelin
+61195450,Ane Halsboe-Jørgensen,Q12301637,Ane Halsboe-Jørgensen
+61197341,Magnus Heunicke,Q12325727,Magnus Heunicke
+61197853,Mattias Tesfaye,Q12326451,Mattias Tesfaye
+61201494,Kaare Dybvad,Q20175887,Kaare Dybvad Bek
+61201840,Simon Kollerup,Q12335355,Simon Kollerup
+61202983,Rasmus Prehn,Q12332940,Rasmus Prehn
+61203155,Peter Hummelgaard Thomsen,Q12331581,Peter Hummelgaard Thomsen
+65507164,Flemming Møller Mortensen,Q12311591,Flemming Møller Mortensen
+66217520,Flemming Lentfer,Q100262012,Flemming Lentfer
+66374053,Jeppe Bruus Christensen,Q12319515,Jeppe Bruus
+68499018,Jesper Petersen (politician),Q12319657,Jesper Petersen
+70429971,Thorkild Fogde,Q89358501,Thorkild Fogde
