@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2007-11-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Higher Education and Science (Denmark)"
+      ],
+      "stated_as": "Minister of Higher Education and Science"
+    },
+    "P580": "2021-08-16",
+    "P1365": {
+      "links": [
+        "Ane Halsboe-Jørgensen"
+      ],
+      "stated_as": "Ane Halsboe-Jørgensen"
+    }
+  }
+]

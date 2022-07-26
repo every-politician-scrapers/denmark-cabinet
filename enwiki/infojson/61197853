@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2015-06-18"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Integration (Denmark)"
+      ],
+      "stated_as": "Minister for Immigration and Integration"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Inger Støjberg"
+      ],
+      "stated_as": "Inger Støjberg"
+    },
+    "P582": "2022-05-02",
+    "P1366": {
+      "links": [
+        "Kaare Dybvad"
+      ],
+      "stated_as": "Kaare Dybvad"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (Denmark)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2022-05-02",
+    "P1365": {
+      "links": [
+        "Nick Hækkerup"
+      ],
+      "stated_as": "Nick Hækkerup"
+    }
+  }
+]

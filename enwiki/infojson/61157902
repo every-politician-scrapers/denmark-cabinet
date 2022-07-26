@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketinget"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2011-09-15"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (Denmark)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Claus Hjort Frederiksen"
+      ],
+      "stated_as": "Claus Hjort Frederiksen"
+    },
+    "P582": "2022-02-04",
+    "P1366": {
+      "links": [
+        "Morten Bødskov"
+      ],
+      "stated_as": "Morten Bødskov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Transport (Denmark)"
+      ],
+      "stated_as": "Minister of Transport"
+    },
+    "P580": "2022-02-04",
+    "P1365": {
+      "links": [
+        "Benny Engelbrecht"
+      ],
+      "stated_as": "Benny Engelbrecht"
+    }
+  }
+]

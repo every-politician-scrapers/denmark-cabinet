@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2015-06-18"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Housing"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Ole Birk Olesen"
+      ],
+      "stated_as": "Ole Birk Olesen"
+    },
+    "P582": "2022-05-02",
+    "P1366": {
+      "links": [
+        "Christian Rabjerg Madsen"
+      ],
+      "stated_as": "Christian Rabjerg Madsen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of the Interior (Denmark)"
+      ],
+      "stated_as": "Minister for Interior"
+    },
+    "P580": "2021-01-21",
+    "P1365": {
+      "links": [
+        "Astrid Krag"
+      ],
+      "stated_as": "Astrid Krag"
+    },
+    "P582": "2022-05-02",
+    "P1366": {
+      "links": [
+        "Christian Rabjerg Madsen"
+      ],
+      "stated_as": "Christian Rabjerg Madsen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Integration (Denmark)"
+      ],
+      "stated_as": "Minister for Immigration and Integration"
+    },
+    "P580": "2022-05-02",
+    "P1365": {
+      "links": [
+        "Mattias Tesfaye"
+      ],
+      "stated_as": "Mattias Tesfaye"
+    }
+  }
+]

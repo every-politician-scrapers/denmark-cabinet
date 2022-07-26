@@ -1,0 +1,66 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2007-11-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health (Denmark)"
+      ],
+      "stated_as": "Minister of Health and Prevention"
+    },
+    "P580": "2011-10-03",
+    "P1365": {
+      "links": [
+        "Bertel Haarder"
+      ],
+      "stated_as": "Bertel Haarder"
+    },
+    "P582": "2014-02-03",
+    "P1366": {
+      "links": [
+        "Nick Hækkerup"
+      ],
+      "stated_as": "Nick Hækkerup"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Social Affairs (Denmark)",
+        "Minister of the Interior (Denmark)"
+      ],
+      "stated_as": "Minister of Social Affairs and the Interior"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Ellen Trane Nørby"
+      ],
+      "stated_as": "Ellen Trane Nørby"
+    },
+    "P582": "2021-01-21",
+    "P1366": {
+      "links": [
+        "Kaare Dybvad"
+      ],
+      "stated_as": "Kaare Dybvad"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Social Affairs (Denmark)",
+        "Minister for Elderly Affairs (Denmark)"
+      ],
+      "stated_as": "Minister of Social and Elderly Affairs"
+    },
+    "P580": "2021-01-21"
+  }
+]

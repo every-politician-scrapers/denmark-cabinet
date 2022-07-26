@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2015-06-18"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of the Interior (Denmark)"
+      ],
+      "stated_as": "Minister for Interior and Housing"
+    },
+    "P580": "2022-05-02",
+    "P1365": {
+      "links": [
+        "Kaare Dybvad"
+      ],
+      "stated_as": "Kaare Dybvad"
+    }
+  }
+]

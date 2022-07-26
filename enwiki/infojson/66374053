@@ -1,0 +1,36 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2014-01-01",
+    "P582": "2015-06-18"
+  },
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2019-06-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Taxation (Denmark)"
+      ],
+      "stated_as": "Minister for Taxation"
+    },
+    "P580": "2022-02-04",
+    "P1365": {
+      "links": [
+        "Morten Bødskov"
+      ],
+      "stated_as": "Morten Bødskov"
+    }
+  }
+]

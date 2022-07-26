@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Folketing"
+      ],
+      "stated_as": "Member of the Folketing"
+    },
+    "P580": "2011-09-15"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Higher Education and Science (Denmark)"
+      ],
+      "stated_as": "Minister of Higher Education and Science"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Tommy Ahlers"
+      ],
+      "stated_as": "Tommy Ahlers"
+    },
+    "P582": "2021-08-16",
+    "P1366": {
+      "links": [
+        "Jesper Petersen (politician)"
+      ],
+      "stated_as": "Jesper Petersen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Culture (Denmark)",
+        "List of Ministers for Ecclesiastical Affairs of Denmark"
+      ],
+      "stated_as": "Minister for Culture and Ecclesiastical Affairs"
+    },
+    "P580": "2021-08-16",
+    "P1365": {
+      "links": [
+        "Joy Mogensen"
+      ],
+      "stated_as": "Joy Mogensen"
+    }
+  }
+]
