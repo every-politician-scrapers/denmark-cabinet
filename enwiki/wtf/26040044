@@ -1861,6 +1861,11 @@
               "text": "For many years, she has strongly advocated for the prohibition of the purchase of sex, as in Sweden, Norway, and Iceland.",
               "links": [
                 {
+                  "text": "prohibition of the purchase of sex, as in",
+                  "type": "internal",
+                  "page": "Nordic model approach to prostitution"
+                },
+                {
                   "text": "Sweden",
                   "type": "internal",
                   "page": "Prostitution in Sweden"
@@ -2076,10 +2081,10 @@
         {
           "sentences": [
             {
-              "text": "Despite having adopted new migration policies than earlier social Democratic governments, she and her government has also been introducing several relaxations of the Danish immigration policies."
+              "text": "Despite having adopted new stricter migration policies than earlier social Democratic governments, she and her government has also introduced a few relaxations of Danish immigration policies."
             },
             {
-              "text": "Even though Mette Frederiksen and her government are against the idea of spontaneous asylum seekers, they are great supporters of the UN refugee quota system and has reintroduced Denmark’s participation in that system."
+              "text": "Even though Mette Frederiksen and her government are against the idea of spontaneous asylum seekers, they are supporters of the UN refugee quota system and has reintroduced Denmark’s participation in that system."
             },
             {
               "text": "Other relaxations include getting the children out of the infamous migration center Sjælsmark and increasing social benefits for refugees."
@@ -2094,6 +2099,12 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/President_Trump_Meets_with_the_Prime_Minister_of_the_Kingdom_of_Denmark_(49170427967).jpg",
           "caption": "Frederiksen meets with United States President Donald Trump at the 2019 NATO summit.",
           "links": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "cn"
         }
       ],
       "references": [
@@ -2228,14 +2239,21 @@
         {
           "sentences": [
             {
-              "text": "Frederiksen publicly said: \"I was a social democrat before I got green. And when I wake up in the morning, I am still a social democrat before I am green.\""
+              "text": "Frederiksen publicly said: \"I was a social democrat before I got green. And when I wake up in the morning, I am still a social democrat before I am green.\"",
+              "links": [
+                {
+                  "text": "green",
+                  "type": "internal",
+                  "page": "Environmentalism"
+                }
+              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "More than a year after having set an ambitious reduction target for the decade, there are in March 2021 no concrete plans for dealing with the remaining two thirds of the needed reductions to achieve the Danish 2030 emission target."
+              "text": "More than a year after having set an ambitious reduction target for the decade, there are in March 2021 no concrete plans for dealing with the remaining two-thirds of the needed reductions to achieve the Danish 2030 emission target."
             },
             {
               "text": "Green NGOs have largely viewed Frederiksen's Minister of Climate Dan Jørgensen's tenure negatively in 2020.",
@@ -2251,10 +2269,13 @@
         {
           "sentences": [
             {
-              "text": "Frederiksen's government has described its climate action strategy as a \"hockey stick\"-model."
+              "text": "Frederiksen's government has described its climate action strategy as a \"hockey stick\" model."
             },
             {
-              "text": "This means it plans to await new technologies and falling costs and thus only achieve most reductions at the end of the decade - this strategy has been described by other political parties as a \"Bjørn Lomborg\" dream.",
+              "text": "This means it plans to await new technologies and falling costs and thus only achieve most reductions at the end of the decade."
+            },
+            {
+              "text": "This strategy has been described by other political parties as a \"Bjørn Lomborg\" dream.",
               "links": [
                 {
                   "type": "internal",
@@ -2366,7 +2387,7 @@
               "text": "As stipulated in the Climate Act, the Danish Council on Climate Change has to make annual recommendations for and provide a status update on the Danish government's climate efforts."
             },
             {
-              "text": "In February 2021, the Danish Council on Climate Council does not find it likely that Frederiksen's government will achieve the target of a 70% reduction of greenhouse gases by 2030."
+              "text": "In February 2021, the Danish Council on Climate Council found it was not likely that Frederiksen's government would achieve their original target of a 70% reduction of greenhouse gases by 2030."
             }
           ]
         }
